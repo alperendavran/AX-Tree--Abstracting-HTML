@@ -1,0 +1,6650 @@
+[
+  {
+    "id": 1,
+    "parentId": null,
+    "role": "rootwebarea",
+    "name": "Accessibility | MDN",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 2,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 3,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body"
+  },
+  {
+    "id": 4,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]"
+  },
+  {
+    "id": 5,
+    "parentId": null,
+    "role": "status",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[2]"
+  },
+  {
+    "id": 6,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/ul"
+  },
+  {
+    "id": 7,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div"
+  },
+  {
+    "id": 8,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[1]"
+  },
+  {
+    "id": 9,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[1]/section"
+  },
+  {
+    "id": 10,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]"
+  },
+  {
+    "id": 11,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]"
+  },
+  {
+    "id": 12,
+    "parentId": null,
+    "role": "complementary",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside"
+  },
+  {
+    "id": 13,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div"
+  },
+  {
+    "id": 14,
+    "parentId": null,
+    "role": "main",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main"
+  },
+  {
+    "id": 15,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[4]"
+  },
+  {
+    "id": 16,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[4]/section"
+  },
+  {
+    "id": 17,
+    "parentId": null,
+    "role": "contentinfo",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer"
+  },
+  {
+    "id": 18,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/ul/li[1]"
+  },
+  {
+    "id": 19,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/ul/li[2]"
+  },
+  {
+    "id": 20,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/ul/li[3]"
+  },
+  {
+    "id": 21,
+    "parentId": null,
+    "role": "link",
+    "name": "Diamond Code Smarter with AI. Reduce review errors with AI-powered insights. Ship clean code, faster.",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[1]/section/p/a[1]"
+  },
+  {
+    "id": 22,
+    "parentId": null,
+    "role": "link",
+    "name": "Try Diamond",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[1]/section/p/a[2]"
+  },
+  {
+    "id": 23,
+    "parentId": null,
+    "role": "link",
+    "name": "AD",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[1]/section/p/a[3]"
+  },
+  {
+    "id": 24,
+    "parentId": null,
+    "role": "banner",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header"
+  },
+  {
+    "id": 25,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div"
+  },
+  {
+    "id": 26,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div"
+  },
+  {
+    "id": 27,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Breadcrumb",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/nav"
+  },
+  {
+    "id": 28,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div"
+  },
+  {
+    "id": 29,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul"
+  },
+  {
+    "id": 30,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Related Topics",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav"
+  },
+  {
+    "id": 31,
+    "parentId": null,
+    "role": "complementary",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside"
+  },
+  {
+    "id": 32,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/section"
+  },
+  {
+    "id": 33,
+    "parentId": null,
+    "role": "article",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article"
+  },
+  {
+    "id": 34,
+    "parentId": null,
+    "role": "complementary",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside"
+  },
+  {
+    "id": 35,
+    "parentId": null,
+    "role": "link",
+    "name": "MongoDB Atlas",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[4]/section/a[1]"
+  },
+  {
+    "id": 36,
+    "parentId": null,
+    "role": "link",
+    "name": "AD",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[4]/section/a[2]"
+  },
+  {
+    "id": 37,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div"
+  },
+  {
+    "id": 38,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]"
+  },
+  {
+    "id": 39,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN homepage",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/a"
+  },
+  {
+    "id": 40,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/p"
+  },
+  {
+    "id": 41,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul"
+  },
+  {
+    "id": 42,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]"
+  },
+  {
+    "id": 43,
+    "parentId": null,
+    "role": "heading",
+    "name": "MDN",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/h2"
+  },
+  {
+    "id": 44,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul"
+  },
+  {
+    "id": 45,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[3]"
+  },
+  {
+    "id": 46,
+    "parentId": null,
+    "role": "heading",
+    "name": "Support",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[3]/h2"
+  },
+  {
+    "id": 47,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[3]/ul"
+  },
+  {
+    "id": 48,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]"
+  },
+  {
+    "id": 49,
+    "parentId": null,
+    "role": "heading",
+    "name": "Our communities",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]/h2"
+  },
+  {
+    "id": 50,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]/ul"
+  },
+  {
+    "id": 51,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]"
+  },
+  {
+    "id": 52,
+    "parentId": null,
+    "role": "heading",
+    "name": "Developers",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/h2"
+  },
+  {
+    "id": 53,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul"
+  },
+  {
+    "id": 54,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]"
+  },
+  {
+    "id": 55,
+    "parentId": null,
+    "role": "link",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/a"
+  },
+  {
+    "id": 56,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul"
+  },
+  {
+    "id": 57,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[7]"
+  },
+  {
+    "id": 58,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[7]/p"
+  },
+  {
+    "id": 59,
+    "parentId": null,
+    "role": "link",
+    "name": "Skip to main content",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/ul/li[1]/a"
+  },
+  {
+    "id": 60,
+    "parentId": null,
+    "role": "link",
+    "name": "Skip to search",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/ul/li[2]/a"
+  },
+  {
+    "id": 61,
+    "parentId": null,
+    "role": "link",
+    "name": "Skip to select language",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/ul/li[3]/a"
+  },
+  {
+    "id": 62,
+    "parentId": null,
+    "role": "image",
+    "name": "Diamond",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[1]/section/p/a[1]/img"
+  },
+  {
+    "id": 63,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[1]/section/p/a[1]/span"
+  },
+  {
+    "id": 64,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Code Smarter with AI. Reduce review errors with AI-powered insights. Ship clean code, faster.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 65,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Try Diamond",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 66,
+    "parentId": null,
+    "role": "statictext",
+    "name": "AD",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 67,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div"
+  },
+  {
+    "id": 68,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]"
+  },
+  {
+    "id": 69,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN homepage",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a"
+  },
+  {
+    "id": 70,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]"
+  },
+  {
+    "id": 71,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Main menu",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav"
+  },
+  {
+    "id": 72,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]"
+  },
+  {
+    "id": 73,
+    "parentId": null,
+    "role": "search",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]/form"
+  },
+  {
+    "id": 74,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[2]"
+  },
+  {
+    "id": 75,
+    "parentId": null,
+    "role": "button",
+    "name": "Theme",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[2]/button"
+  },
+  {
+    "id": 76,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/ul"
+  },
+  {
+    "id": 77,
+    "parentId": null,
+    "role": "list",
+    "name": "breadcrumbs",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/nav/ol"
+  },
+  {
+    "id": 78,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li"
+  },
+  {
+    "id": 79,
+    "parentId": null,
+    "role": "sectionheader",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/header"
+  },
+  {
+    "id": 80,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div"
+  },
+  {
+    "id": 81,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]"
+  },
+  {
+    "id": 82,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol"
+  },
+  {
+    "id": 83,
+    "parentId": null,
+    "role": "navigation",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav"
+  },
+  {
+    "id": 84,
+    "parentId": null,
+    "role": "sectionheader",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/header"
+  },
+  {
+    "id": 85,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div"
+  },
+  {
+    "id": 86,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/p[1]"
+  },
+  {
+    "id": 87,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/p[2]"
+  },
+  {
+    "id": 88,
+    "parentId": null,
+    "role": "blockquote",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/blockquote"
+  },
+  {
+    "id": 89,
+    "parentId": null,
+    "role": "region",
+    "name": "Accessibility guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]"
+  },
+  {
+    "id": 90,
+    "parentId": null,
+    "role": "region",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]"
+  },
+  {
+    "id": 91,
+    "parentId": null,
+    "role": "region",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]"
+  },
+  {
+    "id": 92,
+    "parentId": null,
+    "role": "region",
+    "name": "See also",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]"
+  },
+  {
+    "id": 93,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div"
+  },
+  {
+    "id": 94,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/div[1]"
+  },
+  {
+    "id": 95,
+    "parentId": null,
+    "role": "heading",
+    "name": "Help improve MDN",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/h2"
+  },
+  {
+    "id": 96,
+    "parentId": null,
+    "role": "group",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset"
+  },
+  {
+    "id": 97,
+    "parentId": null,
+    "role": "link",
+    "name": "Learn how to contribute",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/a"
+  },
+  {
+    "id": 98,
+    "parentId": null,
+    "role": "statictext",
+    "name": ".",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 99,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/p"
+  },
+  {
+    "id": 100,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/div[2]"
+  },
+  {
+    "id": 101,
+    "parentId": null,
+    "role": "image",
+    "name": "MongoDB Atlas",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[4]/section/a[1]/img"
+  },
+  {
+    "id": 102,
+    "parentId": null,
+    "role": "statictext",
+    "name": "AD",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 103,
+    "parentId": null,
+    "role": "image",
+    "name": "MDN logo",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/a/svg"
+  },
+  {
+    "id": 104,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Your blueprint for a better internet.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 105,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[1]"
+  },
+  {
+    "id": 106,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[2]"
+  },
+  {
+    "id": 107,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[3]"
+  },
+  {
+    "id": 108,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[4]"
+  },
+  {
+    "id": 109,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[5]"
+  },
+  {
+    "id": 110,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 111,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul/li[1]"
+  },
+  {
+    "id": 112,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul/li[2]"
+  },
+  {
+    "id": 113,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul/li[3]"
+  },
+  {
+    "id": 114,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul/li[4]"
+  },
+  {
+    "id": 115,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Support",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 116,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[3]/ul/li[1]"
+  },
+  {
+    "id": 117,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[3]/ul/li[2]"
+  },
+  {
+    "id": 118,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Our communities",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 119,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]/ul/li[1]"
+  },
+  {
+    "id": 120,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]/ul/li[2]"
+  },
+  {
+    "id": 121,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]/ul/li[3]"
+  },
+  {
+    "id": 122,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Developers",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 123,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul/li[1]"
+  },
+  {
+    "id": 124,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul/li[2]"
+  },
+  {
+    "id": 125,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul/li[3]"
+  },
+  {
+    "id": 126,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul/li[4]"
+  },
+  {
+    "id": 127,
+    "parentId": null,
+    "role": "image",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/a/svg"
+  },
+  {
+    "id": 128,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul/li[1]"
+  },
+  {
+    "id": 129,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul/li[2]"
+  },
+  {
+    "id": 130,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul/li[3]"
+  },
+  {
+    "id": 131,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul/li[4]"
+  },
+  {
+    "id": 132,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Visit",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 133,
+    "parentId": null,
+    "role": "link",
+    "name": "Mozilla Corporation’s",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[7]/p/a[1]"
+  },
+  {
+    "id": 134,
+    "parentId": null,
+    "role": "statictext",
+    "name": "not-for-profit parent, the",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 135,
+    "parentId": null,
+    "role": "link",
+    "name": "Mozilla Foundation",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[7]/p/a[2]"
+  },
+  {
+    "id": 136,
+    "parentId": null,
+    "role": "statictext",
+    "name": ".",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 137,
+    "parentId": null,
+    "role": "linebreak",
+    "name": "\n",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[7]/p/br"
+  },
+  {
+    "id": 138,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Portions of this content are ©1998–",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 139,
+    "parentId": null,
+    "role": "statictext",
+    "name": "2025",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 140,
+    "parentId": null,
+    "role": "statictext",
+    "name": " by individual mozilla.org contributors. Content available under",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 141,
+    "parentId": null,
+    "role": "link",
+    "name": "a Creative Commons license",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[7]/p/a[3]"
+  },
+  {
+    "id": 142,
+    "parentId": null,
+    "role": "statictext",
+    "name": ".",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 143,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Skip to main content",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 144,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Skip to search",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 145,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Skip to select language",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 146,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 147,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 148,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 149,
+    "parentId": null,
+    "role": "image",
+    "name": "MDN Web Docs",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a/svg[1]"
+  },
+  {
+    "id": 150,
+    "parentId": null,
+    "role": "image",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a/svg[2]"
+  },
+  {
+    "id": 151,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul"
+  },
+  {
+    "id": 152,
+    "parentId": null,
+    "role": "labeltext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]/form/label"
+  },
+  {
+    "id": 153,
+    "parentId": null,
+    "role": "combobox",
+    "name": "Search MDN",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]/form/input"
+  },
+  {
+    "id": 154,
+    "parentId": null,
+    "role": "button",
+    "name": "SEARCH",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]/form/button[2]"
+  },
+  {
+    "id": 155,
+    "parentId": null,
+    "role": "listbox",
+    "name": "Search MDN",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]/form/div"
+  },
+  {
+    "id": 156,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[2]/button/span"
+  },
+  {
+    "id": 157,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[2]/button/span/span"
+  },
+  {
+    "id": 158,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Theme",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 159,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/ul/li[1]"
+  },
+  {
+    "id": 160,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/ul/li[2]"
+  },
+  {
+    "id": 161,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/nav/ol/li[1]"
+  },
+  {
+    "id": 162,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/nav/ol/li[2]"
+  },
+  {
+    "id": 163,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li/div"
+  },
+  {
+    "id": 164,
+    "parentId": null,
+    "role": "button",
+    "name": "English (US)",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li/div/button"
+  },
+  {
+    "id": 165,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li/div/div/ul/li[1]/form/div/label"
+  },
+  {
+    "id": 166,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li/div/div/ul/li[1]/form/div/label/input"
+  },
+  {
+    "id": 167,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li/div/div/ul/li[1]/form/div/label/span[1]"
+  },
+  {
+    "id": 168,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li/div/div/ul/li[1]/form/div/label/span[2]"
+  },
+  {
+    "id": 169,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 170,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/header/section"
+  },
+  {
+    "id": 171,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[1]"
+  },
+  {
+    "id": 172,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[2]"
+  },
+  {
+    "id": 173,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[3]"
+  },
+  {
+    "id": 174,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[4]"
+  },
+  {
+    "id": 175,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[5]"
+  },
+  {
+    "id": 176,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[6]"
+  },
+  {
+    "id": 177,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[7]"
+  },
+  {
+    "id": 178,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[8]"
+  },
+  {
+    "id": 179,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[9]"
+  },
+  {
+    "id": 180,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[10]"
+  },
+  {
+    "id": 181,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[11]"
+  },
+  {
+    "id": 182,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[12]"
+  },
+  {
+    "id": 183,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[13]"
+  },
+  {
+    "id": 184,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[14]"
+  },
+  {
+    "id": 185,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[15]"
+  },
+  {
+    "id": 186,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[16]"
+  },
+  {
+    "id": 187,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[17]"
+  },
+  {
+    "id": 188,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[18]"
+  },
+  {
+    "id": 189,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[19]"
+  },
+  {
+    "id": 190,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[20]"
+  },
+  {
+    "id": 191,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div"
+  },
+  {
+    "id": 192,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section"
+  },
+  {
+    "id": 193,
+    "parentId": null,
+    "role": "heading",
+    "name": "Accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/header/h1"
+  },
+  {
+    "id": 194,
+    "parentId": null,
+    "role": "strong",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/p[1]/strong[1]"
+  },
+  {
+    "id": 195,
+    "parentId": null,
+    "role": "statictext",
+    "name": " (often abbreviated to ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 196,
+    "parentId": null,
+    "role": "strong",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/p[1]/strong[2]"
+  },
+  {
+    "id": 197,
+    "parentId": null,
+    "role": "statictext",
+    "name": " — as in, \"a\", then 11 characters, and then \"y\") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 198,
+    "parentId": null,
+    "role": "statictext",
+    "name": "For many people, technology makes things easier. For people with disabilities, technology makes things possible. Accessibility means developing content to be as accessible as possible, no matter an individual's physical and cognitive abilities and how they access the web.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 199,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/blockquote/p"
+  },
+  {
+    "id": 200,
+    "parentId": null,
+    "role": "heading",
+    "name": "Accessibility guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/h2"
+  },
+  {
+    "id": 201,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div"
+  },
+  {
+    "id": 202,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/p"
+  },
+  {
+    "id": 203,
+    "parentId": null,
+    "role": "descriptionlist",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl"
+  },
+  {
+    "id": 204,
+    "parentId": null,
+    "role": "heading",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/h2"
+  },
+  {
+    "id": 205,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div"
+  },
+  {
+    "id": 206,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/p"
+  },
+  {
+    "id": 207,
+    "parentId": null,
+    "role": "descriptionlist",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl"
+  },
+  {
+    "id": 208,
+    "parentId": null,
+    "role": "heading",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/h2"
+  },
+  {
+    "id": 209,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/div"
+  },
+  {
+    "id": 210,
+    "parentId": null,
+    "role": "descriptionlist",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/div/dl"
+  },
+  {
+    "id": 211,
+    "parentId": null,
+    "role": "heading",
+    "name": "See also",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/h2"
+  },
+  {
+    "id": 212,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div"
+  },
+  {
+    "id": 213,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div/ul"
+  },
+  {
+    "id": 214,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Help improve MDN",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 215,
+    "parentId": null,
+    "role": "labeltext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset/label"
+  },
+  {
+    "id": 216,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset/div"
+  },
+  {
+    "id": 217,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Learn how to contribute",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 218,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 219,
+    "parentId": null,
+    "role": "statictext",
+    "name": "This page was last modified on",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 220,
+    "parentId": null,
+    "role": "time",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/p/time"
+  },
+  {
+    "id": 221,
+    "parentId": null,
+    "role": "statictext",
+    "name": " by",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 222,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN contributors",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/p/a"
+  },
+  {
+    "id": 223,
+    "parentId": null,
+    "role": "statictext",
+    "name": ".",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 224,
+    "parentId": null,
+    "role": "link",
+    "name": "View this page on GitHub",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/div[2]/a[1]"
+  },
+  {
+    "id": 225,
+    "parentId": null,
+    "role": "statictext",
+    "name": "•",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 226,
+    "parentId": null,
+    "role": "link",
+    "name": "Report a problem with this content",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/div[2]/a[2]"
+  },
+  {
+    "id": 227,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 228,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 229,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN on Bluesky",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[1]/a"
+  },
+  {
+    "id": 230,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN on Mastodon",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[2]/a"
+  },
+  {
+    "id": 231,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN on X (formerly Twitter)",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[3]/a"
+  },
+  {
+    "id": 232,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN on GitHub",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[4]/a"
+  },
+  {
+    "id": 233,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN Blog RSS Feed",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[5]/a"
+  },
+  {
+    "id": 234,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 235,
+    "parentId": null,
+    "role": "link",
+    "name": "About",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul/li[1]/a"
+  },
+  {
+    "id": 236,
+    "parentId": null,
+    "role": "link",
+    "name": "Blog",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul/li[2]/a"
+  },
+  {
+    "id": 237,
+    "parentId": null,
+    "role": "link",
+    "name": "Careers",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul/li[3]/a"
+  },
+  {
+    "id": 238,
+    "parentId": null,
+    "role": "link",
+    "name": "Advertise with us",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[2]/ul/li[4]/a"
+  },
+  {
+    "id": 239,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 240,
+    "parentId": null,
+    "role": "link",
+    "name": "Product help",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[3]/ul/li[1]/a"
+  },
+  {
+    "id": 241,
+    "parentId": null,
+    "role": "link",
+    "name": "Report an issue",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[3]/ul/li[2]/a"
+  },
+  {
+    "id": 242,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 243,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN Community",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]/ul/li[1]/a"
+  },
+  {
+    "id": 244,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN Forum",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]/ul/li[2]/a"
+  },
+  {
+    "id": 245,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN Chat",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[4]/ul/li[3]/a"
+  },
+  {
+    "id": 246,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 247,
+    "parentId": null,
+    "role": "link",
+    "name": "Web Technologies",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul/li[1]/a"
+  },
+  {
+    "id": 248,
+    "parentId": null,
+    "role": "link",
+    "name": "Learn Web Development",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul/li[2]/a"
+  },
+  {
+    "id": 249,
+    "parentId": null,
+    "role": "link",
+    "name": "MDN Plus",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul/li[3]/a"
+  },
+  {
+    "id": 250,
+    "parentId": null,
+    "role": "link",
+    "name": "Hacks Blog",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[5]/ul/li[4]/a"
+  },
+  {
+    "id": 251,
+    "parentId": null,
+    "role": "link",
+    "name": "Website Privacy Notice",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul/li[1]/a"
+  },
+  {
+    "id": 252,
+    "parentId": null,
+    "role": "link",
+    "name": "Cookies",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul/li[2]/a"
+  },
+  {
+    "id": 253,
+    "parentId": null,
+    "role": "link",
+    "name": "Legal",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul/li[3]/a"
+  },
+  {
+    "id": 254,
+    "parentId": null,
+    "role": "link",
+    "name": "Community Participation Guidelines",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[6]/ul/li[4]/a"
+  },
+  {
+    "id": 255,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 256,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Mozilla Corporation’s",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 257,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 258,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Mozilla Foundation",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 259,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 260,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 261,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 262,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 263,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 264,
+    "parentId": null,
+    "role": "statictext",
+    "name": "a Creative Commons license",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 265,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 266,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 267,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 268,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 269,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a/svg[2]/defs/lineargradient[1]/stop[1]"
+  },
+  {
+    "id": 270,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a/svg[2]/defs/lineargradient[1]/stop[2]"
+  },
+  {
+    "id": 271,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a/svg[2]/defs/lineargradient[1]/stop[3]"
+  },
+  {
+    "id": 272,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a/svg[2]/defs/lineargradient[1]/stop[4]"
+  },
+  {
+    "id": 273,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a/svg[2]/defs/lineargradient[1]/stop[5]"
+  },
+  {
+    "id": 274,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[1]/a/svg[2]/defs/lineargradient[1]/stop[6]"
+  },
+  {
+    "id": 275,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[1]"
+  },
+  {
+    "id": 276,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[2]"
+  },
+  {
+    "id": 277,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[3]"
+  },
+  {
+    "id": 278,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[4]"
+  },
+  {
+    "id": 279,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[5]"
+  },
+  {
+    "id": 280,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[6]"
+  },
+  {
+    "id": 281,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Search MDN",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 282,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[1]"
+  },
+  {
+    "id": 283,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[2]"
+  },
+  {
+    "id": 284,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[2]/div[1]/div"
+  },
+  {
+    "id": 285,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]/form/button[2]/span"
+  },
+  {
+    "id": 286,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]/form/button[2]/span/span[1]"
+  },
+  {
+    "id": 287,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/div[1]/form/button[2]/span/span[2]"
+  },
+  {
+    "id": 288,
+    "parentId": null,
+    "role": "statictext",
+    "name": "SEARCH",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 289,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 290,
+    "parentId": null,
+    "role": "link",
+    "name": "Log in",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/ul/li[1]/a"
+  },
+  {
+    "id": 291,
+    "parentId": null,
+    "role": "link",
+    "name": "Sign up for free",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/ul/li[2]/a"
+  },
+  {
+    "id": 292,
+    "parentId": null,
+    "role": "link",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/nav/ol/li[1]/a"
+  },
+  {
+    "id": 293,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/nav/ol/li[2]/a"
+  },
+  {
+    "id": 294,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li/div/button/span"
+  },
+  {
+    "id": 295,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/div/ul/li/div/button/span/span"
+  },
+  {
+    "id": 296,
+    "parentId": null,
+    "role": "statictext",
+    "name": "English (US)",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 297,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/header/section/div"
+  },
+  {
+    "id": 298,
+    "parentId": null,
+    "role": "labeltext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/header/section/div/label"
+  },
+  {
+    "id": 299,
+    "parentId": null,
+    "role": "textbox",
+    "name": "Filter sidebar",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/header/section/div/input"
+  },
+  {
+    "id": 300,
+    "parentId": null,
+    "role": "emphasis",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[1]/em"
+  },
+  {
+    "id": 301,
+    "parentId": null,
+    "role": "link",
+    "name": "Guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[2]/a"
+  },
+  {
+    "id": 302,
+    "parentId": null,
+    "role": "link",
+    "name": "Information for web authors",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[3]/a"
+  },
+  {
+    "id": 303,
+    "parentId": null,
+    "role": "link",
+    "name": "Personalization to help browse safely",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[4]/a"
+  },
+  {
+    "id": 304,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessible web applications and widgets",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[5]/a"
+  },
+  {
+    "id": 305,
+    "parentId": null,
+    "role": "link",
+    "name": "Keyboard-navigable JavaScript widgets",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[6]/a"
+  },
+  {
+    "id": 306,
+    "parentId": null,
+    "role": "link",
+    "name": "Mobile accessibility checklist",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[7]/a"
+  },
+  {
+    "id": 307,
+    "parentId": null,
+    "role": "link",
+    "name": "Cognitive accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[8]/a"
+  },
+  {
+    "id": 308,
+    "parentId": null,
+    "role": "link",
+    "name": "Spatial patterns",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[9]/a"
+  },
+  {
+    "id": 309,
+    "parentId": null,
+    "role": "link",
+    "name": "Colors and Luminance",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[10]/a"
+  },
+  {
+    "id": 310,
+    "parentId": null,
+    "role": "link",
+    "name": "Preventing seizures and physical reactions",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[11]/a"
+  },
+  {
+    "id": 311,
+    "parentId": null,
+    "role": "group",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[12]/details"
+  },
+  {
+    "id": 312,
+    "parentId": null,
+    "role": "group",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[13]/details"
+  },
+  {
+    "id": 313,
+    "parentId": null,
+    "role": "link",
+    "name": "ARIA",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[14]/a"
+  },
+  {
+    "id": 314,
+    "parentId": null,
+    "role": "group",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[15]/details"
+  },
+  {
+    "id": 315,
+    "parentId": null,
+    "role": "link",
+    "name": "How to",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[16]/a"
+  },
+  {
+    "id": 316,
+    "parentId": null,
+    "role": "link",
+    "name": "How to file ARIA-related bugs",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[17]/a"
+  },
+  {
+    "id": 317,
+    "parentId": null,
+    "role": "link",
+    "name": "ARIA reference",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[18]/a"
+  },
+  {
+    "id": 318,
+    "parentId": null,
+    "role": "group",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[19]/details"
+  },
+  {
+    "id": 319,
+    "parentId": null,
+    "role": "group",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[20]/details"
+  },
+  {
+    "id": 320,
+    "parentId": null,
+    "role": "sectionheader",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/header"
+  },
+  {
+    "id": 321,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul"
+  },
+  {
+    "id": 322,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 323,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 324,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 325,
+    "parentId": null,
+    "role": "statictext",
+    "name": "A11y",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 326,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 327,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 328,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 329,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 330,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 331,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 332,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 333,
+    "parentId": null,
+    "role": "strong",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/blockquote/p/strong"
+  },
+  {
+    "id": 334,
+    "parentId": null,
+    "role": "statictext",
+    "name": ", whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 335,
+    "parentId": null,
+    "role": "linebreak",
+    "name": "\n",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/blockquote/p/br"
+  },
+  {
+    "id": 336,
+    "parentId": null,
+    "role": "statictext",
+    "name": "– (",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 337,
+    "parentId": null,
+    "role": "link",
+    "name": "W3C - Accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/blockquote/p/a"
+  },
+  {
+    "id": 338,
+    "parentId": null,
+    "role": "statictext",
+    "name": ")",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 339,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessibility guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/h2/a"
+  },
+  {
+    "id": 340,
+    "parentId": null,
+    "role": "statictext",
+    "name": "The ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 341,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessibility guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/p/a"
+  },
+  {
+    "id": 342,
+    "parentId": null,
+    "role": "statictext",
+    "name": " cover authoring principles, WCAG compliance, accessible widgets and navigation, mobile accessibility, and other key topics that will help you understand why accessibility is crucial for the web and how to improve it in your projects.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 343,
+    "parentId": null,
+    "role": "term",
+    "name": "Accessibility information for web authors",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[1]"
+  },
+  {
+    "id": 344,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[1]"
+  },
+  {
+    "id": 345,
+    "parentId": null,
+    "role": "term",
+    "name": "Personalization to help browse safely",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[2]"
+  },
+  {
+    "id": 346,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[2]"
+  },
+  {
+    "id": 347,
+    "parentId": null,
+    "role": "term",
+    "name": "Accessible web applications and widgets",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[3]"
+  },
+  {
+    "id": 348,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[3]"
+  },
+  {
+    "id": 349,
+    "parentId": null,
+    "role": "term",
+    "name": "Keyboard-navigable JavaScript widgets",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[4]"
+  },
+  {
+    "id": 350,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[4]"
+  },
+  {
+    "id": 351,
+    "parentId": null,
+    "role": "term",
+    "name": "Mobile accessibility checklist",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[5]"
+  },
+  {
+    "id": 352,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[5]"
+  },
+  {
+    "id": 353,
+    "parentId": null,
+    "role": "term",
+    "name": "Understanding the Web Content Accessibility Guidelines (WCAG)",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[6]"
+  },
+  {
+    "id": 354,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[6]"
+  },
+  {
+    "id": 355,
+    "parentId": null,
+    "role": "term",
+    "name": "Cognitive accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[7]"
+  },
+  {
+    "id": 356,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[7]"
+  },
+  {
+    "id": 357,
+    "parentId": null,
+    "role": "term",
+    "name": "Accessibility and spatial patterns",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[8]"
+  },
+  {
+    "id": 358,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[8]"
+  },
+  {
+    "id": 359,
+    "parentId": null,
+    "role": "term",
+    "name": "Web Accessibility: Understanding Colors and Luminance",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[9]"
+  },
+  {
+    "id": 360,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[9]"
+  },
+  {
+    "id": 361,
+    "parentId": null,
+    "role": "term",
+    "name": "Web accessibility for seizures and physical reactions",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[10]"
+  },
+  {
+    "id": 362,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[10]"
+  },
+  {
+    "id": 363,
+    "parentId": null,
+    "role": "term",
+    "name": "ARIA",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[11]"
+  },
+  {
+    "id": 364,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[11]"
+  },
+  {
+    "id": 365,
+    "parentId": null,
+    "role": "link",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/h2/a"
+  },
+  {
+    "id": 366,
+    "parentId": null,
+    "role": "statictext",
+    "name": "The MDN ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 367,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessibility Learning Area",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/p/a"
+  },
+  {
+    "id": 368,
+    "parentId": null,
+    "role": "statictext",
+    "name": " contains modern, up-to-date tutorials covering the following accessibility essentials:",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 369,
+    "parentId": null,
+    "role": "term",
+    "name": "What is accessibility?",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[1]"
+  },
+  {
+    "id": 370,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[1]"
+  },
+  {
+    "id": 371,
+    "parentId": null,
+    "role": "term",
+    "name": "HTML: A good basis for accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[2]"
+  },
+  {
+    "id": 372,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[2]"
+  },
+  {
+    "id": 373,
+    "parentId": null,
+    "role": "term",
+    "name": "CSS and JavaScript accessibility best practices",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[3]"
+  },
+  {
+    "id": 374,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[3]"
+  },
+  {
+    "id": 375,
+    "parentId": null,
+    "role": "term",
+    "name": "WAI-ARIA basics",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[4]"
+  },
+  {
+    "id": 376,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[4]"
+  },
+  {
+    "id": 377,
+    "parentId": null,
+    "role": "term",
+    "name": "Accessible multimedia",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[5]"
+  },
+  {
+    "id": 378,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[5]"
+  },
+  {
+    "id": 379,
+    "parentId": null,
+    "role": "term",
+    "name": "Mobile accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[6]"
+  },
+  {
+    "id": 380,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[6]"
+  },
+  {
+    "id": 381,
+    "parentId": null,
+    "role": "link",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/h2/a"
+  },
+  {
+    "id": 382,
+    "parentId": null,
+    "role": "term",
+    "name": "ARIA reference",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/div/dl/dt"
+  },
+  {
+    "id": 383,
+    "parentId": null,
+    "role": "definition",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/div/dl/dd"
+  },
+  {
+    "id": 384,
+    "parentId": null,
+    "role": "link",
+    "name": "See also",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/h2/a"
+  },
+  {
+    "id": 385,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div/ul/li[1]"
+  },
+  {
+    "id": 386,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div/ul/li[2]"
+  },
+  {
+    "id": 387,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 388,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Was this page helpful to you?",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 389,
+    "parentId": null,
+    "role": "button",
+    "name": "Yes",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset/div/button[1]"
+  },
+  {
+    "id": 390,
+    "parentId": null,
+    "role": "button",
+    "name": "No",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset/div/button[2]"
+  },
+  {
+    "id": 391,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 392,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 393,
+    "parentId": null,
+    "role": "statictext",
+    "name": "May 8, 2025",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 394,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 395,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN contributors",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 396,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 397,
+    "parentId": null,
+    "role": "statictext",
+    "name": "View this page on GitHub",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 398,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 399,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Report a problem with this content",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 400,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[1]/a/span[1]"
+  },
+  {
+    "id": 401,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[1]/a/span[2]"
+  },
+  {
+    "id": 402,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN on Bluesky",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 403,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[2]/a/span[1]"
+  },
+  {
+    "id": 404,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[2]/a/span[2]"
+  },
+  {
+    "id": 405,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN on Mastodon",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 406,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[3]/a/span[1]"
+  },
+  {
+    "id": 407,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[3]/a/span[2]"
+  },
+  {
+    "id": 408,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN on X (formerly Twitter)",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 409,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[4]/a/span[1]"
+  },
+  {
+    "id": 410,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[4]/a/span[2]"
+  },
+  {
+    "id": 411,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN on GitHub",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 412,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[5]/a/span[1]"
+  },
+  {
+    "id": 413,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/footer/div/div[1]/ul/li[5]/a/span[2]"
+  },
+  {
+    "id": 414,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN Blog RSS Feed",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 415,
+    "parentId": null,
+    "role": "statictext",
+    "name": "About",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 416,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Blog",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 417,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Careers",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 418,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Advertise with us",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 419,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Product help",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 420,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Report an issue",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 421,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN Community",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 422,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN Forum",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 423,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN Chat",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 424,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Web Technologies",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 425,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Learn Web Development",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 426,
+    "parentId": null,
+    "role": "statictext",
+    "name": "MDN Plus",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 427,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Hacks Blog",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 428,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Website Privacy Notice",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 429,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Cookies",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 430,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Legal",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 431,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Community Participation Guidelines",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 432,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 433,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 434,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 435,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[1]/button"
+  },
+  {
+    "id": 436,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 437,
+    "parentId": null,
+    "role": "link",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[1]/a"
+  },
+  {
+    "id": 438,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[2]/button"
+  },
+  {
+    "id": 439,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 440,
+    "parentId": null,
+    "role": "link",
+    "name": "Learn",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[2]/a"
+  },
+  {
+    "id": 441,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[3]/button"
+  },
+  {
+    "id": 442,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 443,
+    "parentId": null,
+    "role": "link",
+    "name": "Plus",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[3]/a"
+  },
+  {
+    "id": 444,
+    "parentId": null,
+    "role": "link",
+    "name": "Curriculum NEW",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[4]/a"
+  },
+  {
+    "id": 445,
+    "parentId": null,
+    "role": "link",
+    "name": "Blog",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[5]/a"
+  },
+  {
+    "id": 446,
+    "parentId": null,
+    "role": "button",
+    "name": "Tools",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[6]/button"
+  },
+  {
+    "id": 447,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 448,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 449,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Log in",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 450,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/ul/li[2]/a/span"
+  },
+  {
+    "id": 451,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Sign up for free",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 452,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/nav/ol/li[1]/a/span"
+  },
+  {
+    "id": 453,
+    "parentId": null,
+    "role": "statictext",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 454,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/div/div/nav/ol/li[2]/a/span"
+  },
+  {
+    "id": 455,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 456,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 457,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/header/section/div/label/span[1]"
+  },
+  {
+    "id": 458,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/header/section/div/label/span[2]"
+  },
+  {
+    "id": 459,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Filter sidebar",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 460,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[1]"
+  },
+  {
+    "id": 461,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[2]"
+  },
+  {
+    "id": 462,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[1]/em/a"
+  },
+  {
+    "id": 463,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Guides",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 464,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Information for web authors",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 465,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Personalization to help browse safely",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 466,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessible web applications and widgets",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 467,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Keyboard-navigable JavaScript widgets",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 468,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Mobile accessibility checklist",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 469,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Cognitive accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 470,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Spatial patterns",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 471,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Colors and Luminance",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 472,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Preventing seizures and physical reactions",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 473,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[1]"
+  },
+  {
+    "id": 474,
+    "parentId": null,
+    "role": "disclosuretriangle",
+    "name": "Understanding WCAG",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[12]/details/summary"
+  },
+  {
+    "id": 475,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[2]"
+  },
+  {
+    "id": 476,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[12]/details/ol"
+  },
+  {
+    "id": 477,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[1]"
+  },
+  {
+    "id": 478,
+    "parentId": null,
+    "role": "disclosuretriangle",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[13]/details/summary"
+  },
+  {
+    "id": 479,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[2]"
+  },
+  {
+    "id": 480,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[13]/details/ol"
+  },
+  {
+    "id": 481,
+    "parentId": null,
+    "role": "statictext",
+    "name": "ARIA",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 482,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[1]"
+  },
+  {
+    "id": 483,
+    "parentId": null,
+    "role": "disclosuretriangle",
+    "name": "ARIA guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[15]/details/summary"
+  },
+  {
+    "id": 484,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[2]"
+  },
+  {
+    "id": 485,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[15]/details/ol"
+  },
+  {
+    "id": 486,
+    "parentId": null,
+    "role": "statictext",
+    "name": "How to",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 487,
+    "parentId": null,
+    "role": "statictext",
+    "name": "How to file ARIA-related bugs",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 488,
+    "parentId": null,
+    "role": "statictext",
+    "name": "ARIA reference",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 489,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[1]"
+  },
+  {
+    "id": 490,
+    "parentId": null,
+    "role": "disclosuretriangle",
+    "name": "Attributes",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[19]/details/summary"
+  },
+  {
+    "id": 491,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[2]"
+  },
+  {
+    "id": 492,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[19]/details/ol"
+  },
+  {
+    "id": 493,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[1]"
+  },
+  {
+    "id": 494,
+    "parentId": null,
+    "role": "disclosuretriangle",
+    "name": "Roles",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[20]/details/summary"
+  },
+  {
+    "id": 495,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/slot[2]"
+  },
+  {
+    "id": 496,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[20]/details/ol"
+  },
+  {
+    "id": 497,
+    "parentId": null,
+    "role": "heading",
+    "name": "In this article",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/header/h2"
+  },
+  {
+    "id": 498,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul/li[1]"
+  },
+  {
+    "id": 499,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul/li[2]"
+  },
+  {
+    "id": 500,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul/li[3]"
+  },
+  {
+    "id": 501,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul/li[4]"
+  },
+  {
+    "id": 502,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 503,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 504,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 505,
+    "parentId": null,
+    "role": "statictext",
+    "name": "The Web is fundamentally designed to work for all people",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 506,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 507,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 508,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 509,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 510,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 511,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 512,
+    "parentId": null,
+    "role": "statictext",
+    "name": "W3C - Accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 513,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/div/blockquote/p/a/::after"
+  },
+  {
+    "id": 514,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 515,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 516,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/h2/a/::before"
+  },
+  {
+    "id": 517,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility guides",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 518,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 519,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility guides",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 520,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 521,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 522,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 523,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 524,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessibility information for web authors",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[1]/a"
+  },
+  {
+    "id": 525,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[1]/p"
+  },
+  {
+    "id": 526,
+    "parentId": null,
+    "role": "link",
+    "name": "Personalization to help browse safely",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[2]/a"
+  },
+  {
+    "id": 527,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[2]/p"
+  },
+  {
+    "id": 528,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessible web applications and widgets",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[3]/a"
+  },
+  {
+    "id": 529,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[3]/p"
+  },
+  {
+    "id": 530,
+    "parentId": null,
+    "role": "link",
+    "name": "Keyboard-navigable JavaScript widgets",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[4]/a"
+  },
+  {
+    "id": 531,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[4]/p"
+  },
+  {
+    "id": 532,
+    "parentId": null,
+    "role": "link",
+    "name": "Mobile accessibility checklist",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[5]/a"
+  },
+  {
+    "id": 533,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[5]/p"
+  },
+  {
+    "id": 534,
+    "parentId": null,
+    "role": "link",
+    "name": "Understanding the Web Content Accessibility Guidelines (WCAG)",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[6]/a"
+  },
+  {
+    "id": 535,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[6]/p"
+  },
+  {
+    "id": 536,
+    "parentId": null,
+    "role": "link",
+    "name": "Cognitive accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[7]/a"
+  },
+  {
+    "id": 537,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[7]/p"
+  },
+  {
+    "id": 538,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessibility and spatial patterns",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[8]/a"
+  },
+  {
+    "id": 539,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[8]/p"
+  },
+  {
+    "id": 540,
+    "parentId": null,
+    "role": "link",
+    "name": "Web Accessibility: Understanding Colors and Luminance",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[9]/a"
+  },
+  {
+    "id": 541,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[9]/p"
+  },
+  {
+    "id": 542,
+    "parentId": null,
+    "role": "link",
+    "name": "Web accessibility for seizures and physical reactions",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[10]/a"
+  },
+  {
+    "id": 543,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[10]/p"
+  },
+  {
+    "id": 544,
+    "parentId": null,
+    "role": "link",
+    "name": "ARIA",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dt[11]/a"
+  },
+  {
+    "id": 545,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[11]/p"
+  },
+  {
+    "id": 546,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/h2/a/::before"
+  },
+  {
+    "id": 547,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 548,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 549,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility Learning Area",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 550,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 551,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 552,
+    "parentId": null,
+    "role": "link",
+    "name": "What is accessibility?",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[1]/a"
+  },
+  {
+    "id": 553,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[1]/p"
+  },
+  {
+    "id": 554,
+    "parentId": null,
+    "role": "link",
+    "name": "HTML: A good basis for accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[2]/a"
+  },
+  {
+    "id": 555,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[2]/p"
+  },
+  {
+    "id": 556,
+    "parentId": null,
+    "role": "link",
+    "name": "CSS and JavaScript accessibility best practices",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[3]/a"
+  },
+  {
+    "id": 557,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[3]/p"
+  },
+  {
+    "id": 558,
+    "parentId": null,
+    "role": "link",
+    "name": "WAI-ARIA basics",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[4]/a"
+  },
+  {
+    "id": 559,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[4]/p"
+  },
+  {
+    "id": 560,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessible multimedia",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[5]/a"
+  },
+  {
+    "id": 561,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[5]/p"
+  },
+  {
+    "id": 562,
+    "parentId": null,
+    "role": "link",
+    "name": "Mobile accessibility",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dt[6]/a"
+  },
+  {
+    "id": 563,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[2]/div/dl/dd[6]/p"
+  },
+  {
+    "id": 564,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/h2/a/::before"
+  },
+  {
+    "id": 565,
+    "parentId": null,
+    "role": "statictext",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 566,
+    "parentId": null,
+    "role": "link",
+    "name": "ARIA reference",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/div/dl/dt/a"
+  },
+  {
+    "id": 567,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[3]/div/dl/dd/p"
+  },
+  {
+    "id": 568,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/h2/a/::before"
+  },
+  {
+    "id": 569,
+    "parentId": null,
+    "role": "statictext",
+    "name": "See also",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 570,
+    "parentId": null,
+    "role": "listmarker",
+    "name": "• ",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div/ul/li[1]/::marker"
+  },
+  {
+    "id": 571,
+    "parentId": null,
+    "role": "link",
+    "name": "Developer guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div/ul/li[1]/a"
+  },
+  {
+    "id": 572,
+    "parentId": null,
+    "role": "listmarker",
+    "name": "• ",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div/ul/li[2]/::marker"
+  },
+  {
+    "id": 573,
+    "parentId": null,
+    "role": "link",
+    "name": "WAI Interest Group",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div/ul/li[2]/a"
+  },
+  {
+    "id": 574,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 575,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset/div/button[1]/span"
+  },
+  {
+    "id": 576,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset/div/button[1]/span/span"
+  },
+  {
+    "id": 577,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Yes",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 578,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset/div/button[2]/span"
+  },
+  {
+    "id": 579,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/aside/div/fieldset/div/button[2]/span/span"
+  },
+  {
+    "id": 580,
+    "parentId": null,
+    "role": "statictext",
+    "name": "No",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 581,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 582,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 583,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 584,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 585,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 586,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 587,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 588,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 589,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 590,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 591,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 592,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 593,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 594,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 595,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 596,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 597,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 598,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 599,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 600,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 601,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 602,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 603,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 604,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 605,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 606,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 607,
+    "parentId": null,
+    "role": "statictext",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 608,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Learn",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 609,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Plus",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 610,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Curriculum",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 611,
+    "parentId": null,
+    "role": "superscript",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[2]/header/div/div[2]/nav/ul/li[4]/a/sup"
+  },
+  {
+    "id": 612,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Blog",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 613,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Tools",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 614,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 615,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 616,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 617,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 618,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 619,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 620,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 621,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 622,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 623,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 624,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 625,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 626,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 627,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 628,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 629,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 630,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 631,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 632,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[12]/details/summary/::marker"
+  },
+  {
+    "id": 633,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 634,
+    "parentId": null,
+    "role": "link",
+    "name": "Understanding WCAG",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[12]/details/summary/a"
+  },
+  {
+    "id": 635,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[13]/details/summary/::marker"
+  },
+  {
+    "id": 636,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 637,
+    "parentId": null,
+    "role": "link",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[13]/details/summary/a"
+  },
+  {
+    "id": 638,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 639,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[15]/details/summary/::marker"
+  },
+  {
+    "id": 640,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 641,
+    "parentId": null,
+    "role": "link",
+    "name": "ARIA guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[15]/details/summary/a"
+  },
+  {
+    "id": 642,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 643,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 644,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 645,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[19]/details/summary/::marker"
+  },
+  {
+    "id": 646,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 647,
+    "parentId": null,
+    "role": "link",
+    "name": "Attributes",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[19]/details/summary/a"
+  },
+  {
+    "id": 648,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[20]/details/summary/::marker"
+  },
+  {
+    "id": 649,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 650,
+    "parentId": null,
+    "role": "link",
+    "name": "Roles",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/aside/nav/div/div[2]/ol/li[20]/details/summary/a"
+  },
+  {
+    "id": 651,
+    "parentId": null,
+    "role": "statictext",
+    "name": "In this article",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 652,
+    "parentId": null,
+    "role": "link",
+    "name": "Accessibility guides",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul/li[1]/a"
+  },
+  {
+    "id": 653,
+    "parentId": null,
+    "role": "link",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul/li[2]/a"
+  },
+  {
+    "id": 654,
+    "parentId": null,
+    "role": "link",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul/li[3]/a"
+  },
+  {
+    "id": 655,
+    "parentId": null,
+    "role": "link",
+    "name": "See also",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/div/div/aside/nav/div/section/ul/li[4]/a"
+  },
+  {
+    "id": 656,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 657,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 658,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 659,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 660,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility information for web authors",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 661,
+    "parentId": null,
+    "role": "statictext",
+    "name": "This document lists guidelines and regulations, how-to's, and tools for checking and repairing accessibility problems with websites.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 662,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Personalization to help browse safely",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 663,
+    "parentId": null,
+    "role": "statictext",
+    "name": "This article discusses making web content accessible for those with vestibular disorders, and those who support them, by taking advantage of personalization and accessibility settings built into the operating systems.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 664,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessible web applications and widgets",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 665,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Most JavaScript libraries offer a library of client-side widgets that mimic the behavior of familiar desktop interfaces. While this results in a widget that looks like its desktop counterpart, there usually isn't enough semantic information in the markup to be usable by an assistive technology. This document describes techniques to improve accessibility of such widgets.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 666,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Keyboard-navigable JavaScript widgets",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 667,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Until now, web developers who wanted to make their styled ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 668,
+    "parentId": null,
+    "role": "code",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[4]/p/code[1]"
+  },
+  {
+    "id": 669,
+    "parentId": null,
+    "role": "statictext",
+    "name": " and ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 670,
+    "parentId": null,
+    "role": "code",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[4]/p/code[2]"
+  },
+  {
+    "id": 671,
+    "parentId": null,
+    "role": "statictext",
+    "name": " based widgets accessible have lacked proper techniques. ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 672,
+    "parentId": null,
+    "role": "strong",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[1]/div/dl/dd[4]/p/strong"
+  },
+  {
+    "id": 673,
+    "parentId": null,
+    "role": "statictext",
+    "name": " is part of the minimum accessibility requirements, which a developer should be aware of. This document describes techniques to make JavaScript widgets accessible with the keyboard.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 674,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Mobile accessibility checklist",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 675,
+    "parentId": null,
+    "role": "statictext",
+    "name": "This document provides a concise checklist of accessibility requirements for mobile app developers.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 676,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Understanding the Web Content Accessibility Guidelines (WCAG)",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 677,
+    "parentId": null,
+    "role": "statictext",
+    "name": "A set of articles that provide quick explanations to help you understand the steps that need to be taken to conform to the recommendations outlined in the Web Content Accessibility Guidelines (WCAG).",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 678,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Cognitive accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 679,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Cognitive accessibility covers accessibility considerations for people with cognition and learning disabilities. This document introduces cognitive accessibility and improving accessibility of the web for people with cognitive and learning differences.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 680,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility and spatial patterns",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 681,
+    "parentId": null,
+    "role": "statictext",
+    "name": "This document describes visual patterns that can induce physical symptoms in people who have photosensitive epilepsy, vestibular disorders, or other perceptual issues.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 682,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Web Accessibility: Understanding Colors and Luminance",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 683,
+    "parentId": null,
+    "role": "statictext",
+    "name": "While understanding color, luminance, and saturation is important for design and readability for all sighted users, they are essential for those with reduced vision and color-deficient vision and those with specific neurological, cognitive, and other impairments.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 684,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Web accessibility for seizures and physical reactions",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 685,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Some types of visual web content can induce seizures in people with certain brain disorders. This article helps you understand the types of content that can be problematic and find tools and strategies to help you avoid them.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 686,
+    "parentId": null,
+    "role": "statictext",
+    "name": "ARIA",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 687,
+    "parentId": null,
+    "role": "statictext",
+    "name": "This is a collection of articles to learn how to use Accessible Rich Internet Applications (ARIA) to make your HTML documents more accessible.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 688,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 689,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 690,
+    "parentId": null,
+    "role": "statictext",
+    "name": "What is accessibility?",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 691,
+    "parentId": null,
+    "role": "statictext",
+    "name": "This article starts off the module with a good look at what accessibility actually is — this includes what groups of people we need to consider and why, what tools different people use to interact with the Web, and how we can make accessibility part of our web development workflow.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 692,
+    "parentId": null,
+    "role": "statictext",
+    "name": "HTML: A good basis for accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 693,
+    "parentId": null,
+    "role": "statictext",
+    "name": "A great deal of web content can be made accessible just by making sure that the correct HTML elements are used for the correct purpose at all times. This article looks in detail at how HTML can be used to ensure maximum accessibility.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 694,
+    "parentId": null,
+    "role": "statictext",
+    "name": "CSS and JavaScript accessibility best practices",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 695,
+    "parentId": null,
+    "role": "statictext",
+    "name": "CSS and JavaScript, when used properly, also have the potential to allow for accessible web experiences. They can significantly harm accessibility if misused. This article outlines some CSS and JavaScript best practices that should be considered to ensure that even complex content is as accessible as possible.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 696,
+    "parentId": null,
+    "role": "statictext",
+    "name": "WAI-ARIA basics",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 697,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Following on from the previous article, sometimes making complex UI controls that involve unsemantic HTML and dynamic JavaScript-updated content can be difficult. WAI-ARIA is a technology that can help with such problems by adding in further semantics that browsers and assistive technologies can recognize and let users know what is going on. Here we'll show how to use it at a basic level to improve accessibility.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 698,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessible multimedia",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 699,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Another category of content that can create accessibility problems is multimedia — video, audio, and image content need to be given proper textual alternatives so that they can be understood by assistive technologies and their users. This article shows how.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 700,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Mobile accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 701,
+    "parentId": null,
+    "role": "statictext",
+    "name": "With web access on mobile devices being so popular and popular platforms such as iOS and Android having fully-fledged accessibility tools, it is important to consider the accessibility of your web content on these platforms. This article looks at mobile-specific accessibility considerations.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 702,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 703,
+    "parentId": null,
+    "role": "statictext",
+    "name": "ARIA reference",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 704,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Reference documentation for Accessible Rich Internet Applications (ARIA) attributes and roles.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 705,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 706,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 707,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Developer guides",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 708,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 709,
+    "parentId": null,
+    "role": "statictext",
+    "name": "WAI Interest Group",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 710,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]/div/div[3]/main/article/section[4]/div/ul/li[2]/a/::after"
+  },
+  {
+    "id": 711,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 712,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 713,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 714,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 715,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 716,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 717,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 718,
+    "parentId": null,
+    "role": "statictext",
+    "name": "NEW",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 719,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 720,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 721,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 722,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Understanding WCAG",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 723,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 724,
+    "parentId": null,
+    "role": "statictext",
+    "name": "ARIA guides",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 725,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Attributes",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 726,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Roles",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 727,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 728,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Accessibility guides",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 729,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Tutorials for beginners",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 730,
+    "parentId": null,
+    "role": "statictext",
+    "name": "References",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 731,
+    "parentId": null,
+    "role": "statictext",
+    "name": "See also",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 732,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 733,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 734,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 735,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 736,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 737,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 738,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 739,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 740,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 741,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 742,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 743,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 744,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 745,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 746,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 747,
+    "parentId": null,
+    "role": "statictext",
+    "name": "<div>",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 748,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 749,
+    "parentId": null,
+    "role": "statictext",
+    "name": "<span>",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 750,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 751,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Keyboard accessibility",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 752,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 753,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 754,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 755,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 756,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 757,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 758,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 759,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 760,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 761,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 762,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 763,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 764,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 765,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 766,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 767,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 768,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 769,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 770,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 771,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 772,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 773,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 774,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 775,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 776,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 777,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 778,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 779,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 780,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 781,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 782,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 783,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 784,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 785,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 786,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 787,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 788,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 789,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 790,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 791,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 792,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 793,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 794,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 795,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 796,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 797,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 798,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 799,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 800,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 801,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 802,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 803,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 804,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 805,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 806,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 807,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 808,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 809,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 810,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 811,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 812,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 813,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 814,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 815,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 816,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 817,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 818,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 819,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 820,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 821,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 822,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 823,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 824,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 825,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 826,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 827,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 828,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 829,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 830,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 831,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  }
+]

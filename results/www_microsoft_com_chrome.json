@@ -1,0 +1,5770 @@
+[
+  {
+    "id": 1,
+    "parentId": null,
+    "role": "rootwebarea",
+    "name": "Microsoft – AI, Bulut, Üretkenlik, Bilişim, Oyun ve Uygulamalar",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 2,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 3,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body"
+  },
+  {
+    "id": 4,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[1]"
+  },
+  {
+    "id": 5,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[2]"
+  },
+  {
+    "id": 6,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]"
+  },
+  {
+    "id": 7,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]"
+  },
+  {
+    "id": 8,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[2]"
+  },
+  {
+    "id": 9,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[3]"
+  },
+  {
+    "id": 10,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]"
+  },
+  {
+    "id": 11,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div"
+  },
+  {
+    "id": 12,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div"
+  },
+  {
+    "id": 13,
+    "parentId": null,
+    "role": "main",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main"
+  },
+  {
+    "id": 14,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]"
+  },
+  {
+    "id": 15,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div"
+  },
+  {
+    "id": 16,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[6]"
+  },
+  {
+    "id": 17,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[7]"
+  },
+  {
+    "id": 18,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[8]"
+  },
+  {
+    "id": 19,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div"
+  },
+  {
+    "id": 20,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div"
+  },
+  {
+    "id": 21,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[1]"
+  },
+  {
+    "id": 22,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[2]"
+  },
+  {
+    "id": 23,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[2]/div"
+  },
+  {
+    "id": 24,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]"
+  },
+  {
+    "id": 25,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div"
+  },
+  {
+    "id": 26,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div"
+  },
+  {
+    "id": 27,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]"
+  },
+  {
+    "id": 28,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div"
+  },
+  {
+    "id": 29,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div"
+  },
+  {
+    "id": 30,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div"
+  },
+  {
+    "id": 31,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div"
+  },
+  {
+    "id": 32,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]"
+  },
+  {
+    "id": 33,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div"
+  },
+  {
+    "id": 34,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div"
+  },
+  {
+    "id": 35,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div"
+  },
+  {
+    "id": 36,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div"
+  },
+  {
+    "id": 37,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]"
+  },
+  {
+    "id": 38,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div"
+  },
+  {
+    "id": 39,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div"
+  },
+  {
+    "id": 40,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div"
+  },
+  {
+    "id": 41,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div"
+  },
+  {
+    "id": 42,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]"
+  },
+  {
+    "id": 43,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div"
+  },
+  {
+    "id": 44,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div"
+  },
+  {
+    "id": 45,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div"
+  },
+  {
+    "id": 46,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div"
+  },
+  {
+    "id": 47,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[8]"
+  },
+  {
+    "id": 48,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[8]/div"
+  },
+  {
+    "id": 49,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[8]/div/div"
+  },
+  {
+    "id": 50,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[8]/div/div/div"
+  },
+  {
+    "id": 51,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[8]/div/div/div/div"
+  },
+  {
+    "id": 52,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[9]"
+  },
+  {
+    "id": 53,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[9]/div"
+  },
+  {
+    "id": 54,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]"
+  },
+  {
+    "id": 55,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div"
+  },
+  {
+    "id": 56,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div"
+  },
+  {
+    "id": 57,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div"
+  },
+  {
+    "id": 58,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div"
+  },
+  {
+    "id": 59,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[11]"
+  },
+  {
+    "id": 60,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[11]/div"
+  },
+  {
+    "id": 61,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[12]"
+  },
+  {
+    "id": 62,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[12]/div"
+  },
+  {
+    "id": 63,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[12]/div/div"
+  },
+  {
+    "id": 64,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[12]/div/div/div"
+  },
+  {
+    "id": 65,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[12]/div/div/div/div"
+  },
+  {
+    "id": 66,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[13]"
+  },
+  {
+    "id": 67,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[13]/div"
+  },
+  {
+    "id": 68,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[13]/div/div"
+  },
+  {
+    "id": 69,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[13]/div/div/div[1]"
+  },
+  {
+    "id": 70,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[13]/div/div/div[2]"
+  },
+  {
+    "id": 71,
+    "parentId": null,
+    "role": "link",
+    "name": "Başa dönün",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[13]/div/div/div[2]/a"
+  },
+  {
+    "id": 72,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div"
+  },
+  {
+    "id": 73,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div"
+  },
+  {
+    "id": 74,
+    "parentId": null,
+    "role": "region",
+    "name": "öne çıkan ürünler ve duyurular slayt gösterisi: önceki ve sonraki düğmelerini kullanarak gezinin : slayt sekmelerini kullanarak gezinin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section"
+  },
+  {
+    "id": 75,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/a"
+  },
+  {
+    "id": 76,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div"
+  },
+  {
+    "id": 77,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Ürün Kategorileri",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav"
+  },
+  {
+    "id": 78,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div"
+  },
+  {
+    "id": 79,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section"
+  },
+  {
+    "id": 80,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div"
+  },
+  {
+    "id": 81,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div"
+  },
+  {
+    "id": 82,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[1]"
+  },
+  {
+    "id": 83,
+    "parentId": null,
+    "role": "heading",
+    "name": "İş için",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[1]/h2"
+  },
+  {
+    "id": 84,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]"
+  },
+  {
+    "id": 85,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section"
+  },
+  {
+    "id": 86,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div"
+  },
+  {
+    "id": 87,
+    "parentId": null,
+    "role": "region",
+    "name": "sosyal medyada bizi takip edin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section"
+  },
+  {
+    "id": 88,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[13]/div/div/div[2]/a/span"
+  },
+  {
+    "id": 89,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[13]/div/div/div[2]/a/span/::before"
+  },
+  {
+    "id": 90,
+    "parentId": null,
+    "role": "statictext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 91,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 92,
+    "parentId": null,
+    "role": "statictext",
+    "name": " ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 93,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Başa dönün",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 94,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div"
+  },
+  {
+    "id": 95,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]"
+  },
+  {
+    "id": 96,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div"
+  },
+  {
+    "id": 97,
+    "parentId": null,
+    "role": "link",
+    "name": "Ana içeriğe atla",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/a"
+  },
+  {
+    "id": 98,
+    "parentId": null,
+    "role": "banner",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header"
+  },
+  {
+    "id": 99,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[1]"
+  },
+  {
+    "id": 100,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]"
+  },
+  {
+    "id": 101,
+    "parentId": null,
+    "role": "statictext",
+    "name": "End of öne çıkan ürünler ve duyurular slayt gösterisi: önceki ve sonraki düğmelerini kullanarak gezinin : slayt sekmelerini kullanarak gezinin section",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 102,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul"
+  },
+  {
+    "id": 103,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div"
+  },
+  {
+    "id": 104,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]"
+  },
+  {
+    "id": 105,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]"
+  },
+  {
+    "id": 106,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]"
+  },
+  {
+    "id": 107,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]"
+  },
+  {
+    "id": 108,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[1]"
+  },
+  {
+    "id": 109,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[1]/picture"
+  },
+  {
+    "id": 110,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]"
+  },
+  {
+    "id": 111,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div"
+  },
+  {
+    "id": 112,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div"
+  },
+  {
+    "id": 113,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div/div"
+  },
+  {
+    "id": 114,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div"
+  },
+  {
+    "id": 115,
+    "parentId": null,
+    "role": "statictext",
+    "name": "İş için",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 116,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div"
+  },
+  {
+    "id": 117,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]"
+  },
+  {
+    "id": 118,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]"
+  },
+  {
+    "id": 119,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]"
+  },
+  {
+    "id": 120,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]"
+  },
+  {
+    "id": 121,
+    "parentId": null,
+    "role": "heading",
+    "name": "Microsoft yeniliklerini takip edin ",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/h2"
+  },
+  {
+    "id": 122,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul"
+  },
+  {
+    "id": 123,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 124,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 125,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 126,
+    "parentId": null,
+    "role": "contentinfo",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer"
+  },
+  {
+    "id": 127,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div"
+  },
+  {
+    "id": 128,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Ana içeriğe atla",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 129,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div"
+  },
+  {
+    "id": 130,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div"
+  },
+  {
+    "id": 131,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[1]/span"
+  },
+  {
+    "id": 132,
+    "parentId": null,
+    "role": "link",
+    "name": "Atla öne çıkan ürünler ve duyurular slayt gösterisi: önceki ve sonraki düğmelerini kullanarak gezinin : slayt sekmelerini kullanarak gezinin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/a"
+  },
+  {
+    "id": 133,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div"
+  },
+  {
+    "id": 134,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 135,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[1]"
+  },
+  {
+    "id": 136,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[2]"
+  },
+  {
+    "id": 137,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[3]"
+  },
+  {
+    "id": 138,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div"
+  },
+  {
+    "id": 139,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div"
+  },
+  {
+    "id": 140,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div"
+  },
+  {
+    "id": 141,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div"
+  },
+  {
+    "id": 142,
+    "parentId": null,
+    "role": "image",
+    "name": "DOOM Avcısı.",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[1]/picture/img"
+  },
+  {
+    "id": 143,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div/div"
+  },
+  {
+    "id": 144,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 145,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]/div"
+  },
+  {
+    "id": 146,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]/div"
+  },
+  {
+    "id": 147,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div"
+  },
+  {
+    "id": 148,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div"
+  },
+  {
+    "id": 149,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft yeniliklerini takip edin ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 150,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[1]"
+  },
+  {
+    "id": 151,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[2]"
+  },
+  {
+    "id": 152,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[3]"
+  },
+  {
+    "id": 153,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[4]"
+  },
+  {
+    "id": 154,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Alt Bilgi Kaynağı bağlantıları",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav"
+  },
+  {
+    "id": 155,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div"
+  },
+  {
+    "id": 156,
+    "parentId": null,
+    "role": "link",
+    "name": "İçerik Dili Seçicisi. Şu anda Türkçe (Türkiye) olarak ayarlanmış",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/a[1]"
+  },
+  {
+    "id": 157,
+    "parentId": null,
+    "role": "link",
+    "name": "Gizlilik Tercihleriniz Geri Çevirme Simgesi Gizlilik Tercihleriniz",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/a[2]"
+  },
+  {
+    "id": 158,
+    "parentId": null,
+    "role": "link",
+    "name": "Tüketici Durumu Gizliliği",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/a[3]"
+  },
+  {
+    "id": 159,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Microsoft kurumsal bağlantılar",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav"
+  },
+  {
+    "id": 160,
+    "parentId": null,
+    "role": "alert",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div"
+  },
+  {
+    "id": 161,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 162,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 163,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 164,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/a"
+  },
+  {
+    "id": 165,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Bağlamsal menü",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav"
+  },
+  {
+    "id": 166,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]"
+  },
+  {
+    "id": 167,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]"
+  },
+  {
+    "id": 168,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Tüm Microsoft menüsü",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav"
+  },
+  {
+    "id": 169,
+    "parentId": null,
+    "role": "search",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/form"
+  },
+  {
+    "id": 170,
+    "parentId": null,
+    "role": "link",
+    "name": "0 alışveriş sepetinizdeki öğeler",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/a"
+  },
+  {
+    "id": 171,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[2]"
+  },
+  {
+    "id": 172,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Slide 1 of 2. Sıra dışı olanı başarın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 173,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Atla öne çıkan ürünler ve duyurular slayt gösterisi: önceki ve sonraki düğmelerini kullanarak gezinin : slayt sekmelerini kullanarak gezinin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 174,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]"
+  },
+  {
+    "id": 175,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]"
+  },
+  {
+    "id": 176,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[1]/img"
+  },
+  {
+    "id": 177,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft 365'inizi seçin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[1]/a"
+  },
+  {
+    "id": 178,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[2]/img"
+  },
+  {
+    "id": 179,
+    "parentId": null,
+    "role": "link",
+    "name": "Xbox alın",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[2]/a"
+  },
+  {
+    "id": 180,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[3]/img"
+  },
+  {
+    "id": 181,
+    "parentId": null,
+    "role": "link",
+    "name": "Windows 11'u Edinin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[4]/div/div/div/div/div/nav/ul/li[3]/a"
+  },
+  {
+    "id": 182,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div/picture"
+  },
+  {
+    "id": 183,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div/div[1]"
+  },
+  {
+    "id": 184,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div/div[2]"
+  },
+  {
+    "id": 185,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div/div[2]/div"
+  },
+  {
+    "id": 186,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div/picture"
+  },
+  {
+    "id": 187,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div/div[1]"
+  },
+  {
+    "id": 188,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div/div[2]"
+  },
+  {
+    "id": 189,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div/div[2]/div"
+  },
+  {
+    "id": 190,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div/picture"
+  },
+  {
+    "id": 191,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div/div[1]"
+  },
+  {
+    "id": 192,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div/div[2]"
+  },
+  {
+    "id": 193,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div/div[2]/div"
+  },
+  {
+    "id": 194,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div/picture"
+  },
+  {
+    "id": 195,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div/div[1]"
+  },
+  {
+    "id": 196,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div/div[2]"
+  },
+  {
+    "id": 197,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div/div[2]/div"
+  },
+  {
+    "id": 198,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[1]"
+  },
+  {
+    "id": 199,
+    "parentId": null,
+    "role": "heading",
+    "name": "DOOM: The Dark Ages",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[1]/h2"
+  },
+  {
+    "id": 200,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[2]"
+  },
+  {
+    "id": 201,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[3]"
+  },
+  {
+    "id": 202,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]/div/picture"
+  },
+  {
+    "id": 203,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]/div/div[1]"
+  },
+  {
+    "id": 204,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]/div/div[2]"
+  },
+  {
+    "id": 205,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]/div/div[2]/div"
+  },
+  {
+    "id": 206,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]/div/picture"
+  },
+  {
+    "id": 207,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]/div/div[1]"
+  },
+  {
+    "id": 208,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]/div/div[2]"
+  },
+  {
+    "id": 209,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]/div/div[2]/div"
+  },
+  {
+    "id": 210,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div/picture"
+  },
+  {
+    "id": 211,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div/div[1]"
+  },
+  {
+    "id": 212,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div/div[2]"
+  },
+  {
+    "id": 213,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div/div[2]/div"
+  },
+  {
+    "id": 214,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div/picture"
+  },
+  {
+    "id": 215,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div/div[1]"
+  },
+  {
+    "id": 216,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div/div[2]"
+  },
+  {
+    "id": 217,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div/div[2]/div"
+  },
+  {
+    "id": 218,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 219,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft'u Facebook'ta takip edin, yeni sekmede açılır",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[1]/a"
+  },
+  {
+    "id": 220,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft'u X'da takip edin, yeni sekmede açılır",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[2]/a"
+  },
+  {
+    "id": 221,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft'u LinkedIn'de takip edin, yeni sekmede açılır",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[3]/a"
+  },
+  {
+    "id": 222,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft'u YouTube'da takip edin, yeni sekmede açılır",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[4]/a"
+  },
+  {
+    "id": 223,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]"
+  },
+  {
+    "id": 224,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]"
+  },
+  {
+    "id": 225,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/a[1]/::before"
+  },
+  {
+    "id": 226,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Türkçe (Türkiye)",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 227,
+    "parentId": null,
+    "role": "image",
+    "name": "Gizlilik Tercihleriniz Geri Çevirme Simgesi",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/a[2]/svg"
+  },
+  {
+    "id": 228,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/a[2]/span"
+  },
+  {
+    "id": 229,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Gizlilik Tercihleriniz",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 230,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/a[3]/span"
+  },
+  {
+    "id": 231,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Tüketici Durumu Gizliliği",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 232,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul"
+  },
+  {
+    "id": 233,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[1]"
+  },
+  {
+    "id": 234,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[1]/span"
+  },
+  {
+    "id": 235,
+    "parentId": null,
+    "role": "image",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[1]/span/svg"
+  },
+  {
+    "id": 236,
+    "parentId": null,
+    "role": "paragraph",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[1]/p"
+  },
+  {
+    "id": 237,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[2]"
+  },
+  {
+    "id": 238,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul"
+  },
+  {
+    "id": 239,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul"
+  },
+  {
+    "id": 240,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/form/div[1]"
+  },
+  {
+    "id": 241,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/form/input"
+  },
+  {
+    "id": 242,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[1]"
+  },
+  {
+    "id": 243,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[2]"
+  },
+  {
+    "id": 244,
+    "parentId": null,
+    "role": "button",
+    "name": "Microsoft.com‘da ara",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/form/button"
+  },
+  {
+    "id": 245,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/a/::after"
+  },
+  {
+    "id": 246,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[2]/div"
+  },
+  {
+    "id": 247,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 248,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 249,
+    "parentId": null,
+    "role": "button",
+    "name": "Pause",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[1]"
+  },
+  {
+    "id": 250,
+    "parentId": null,
+    "role": "button",
+    "name": "Geri ",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[2]"
+  },
+  {
+    "id": 251,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/ol/li[1]"
+  },
+  {
+    "id": 252,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/ol/li[1]/::after"
+  },
+  {
+    "id": 253,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/ol/li[2]"
+  },
+  {
+    "id": 254,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/ol/li[2]/::after"
+  },
+  {
+    "id": 255,
+    "parentId": null,
+    "role": "button",
+    "name": "İleri ",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[3]"
+  },
+  {
+    "id": 256,
+    "parentId": null,
+    "role": "region",
+    "name": "1 / 2 ",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]"
+  },
+  {
+    "id": 257,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365'inizi seçin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 258,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Xbox alın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 259,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Windows 11'u Edinin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 260,
+    "parentId": null,
+    "role": "image",
+    "name": "Xbox Series X konsolu ve Xbox oyun kumandası",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div/picture/img"
+  },
+  {
+    "id": 261,
+    "parentId": null,
+    "role": "heading",
+    "name": "Xbox Series X",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div/div[1]/h2"
+  },
+  {
+    "id": 262,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div/div[1]/div"
+  },
+  {
+    "id": 263,
+    "parentId": null,
+    "role": "link",
+    "name": "Xbox Series X Satın Alın",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[1]/div/div[2]/div/a"
+  },
+  {
+    "id": 264,
+    "parentId": null,
+    "role": "image",
+    "name": "Suya yansıyan Microsoft Edge logolu manzara.",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div/picture/img"
+  },
+  {
+    "id": 265,
+    "parentId": null,
+    "role": "heading",
+    "name": "Microsoft Edge",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div/div[1]/h2"
+  },
+  {
+    "id": 266,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div/div[1]/div"
+  },
+  {
+    "id": 267,
+    "parentId": null,
+    "role": "link",
+    "name": "Yeni Microsoft Edge indirin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[2]/div/div[2]/div/a"
+  },
+  {
+    "id": 268,
+    "parentId": null,
+    "role": "image",
+    "name": "Xbox Series S konsolu ve Xbox oyun kumandası",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div/picture/img"
+  },
+  {
+    "id": 269,
+    "parentId": null,
+    "role": "heading",
+    "name": "Xbox Series S",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div/div[1]/h2"
+  },
+  {
+    "id": 270,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div/div[1]/div"
+  },
+  {
+    "id": 271,
+    "parentId": null,
+    "role": "link",
+    "name": "Xbox Series S Satın Alın",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[3]/div/div[2]/div/a"
+  },
+  {
+    "id": 272,
+    "parentId": null,
+    "role": "image",
+    "name": "Ekranda Outlook uygulaması gösterilen bir iOS telefonu ve bir Android telefonu",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div/picture/img"
+  },
+  {
+    "id": 273,
+    "parentId": null,
+    "role": "heading",
+    "name": "iOS ve Android için Outlook",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div/div[1]/h2"
+  },
+  {
+    "id": 274,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div/div[1]/div"
+  },
+  {
+    "id": 275,
+    "parentId": null,
+    "role": "link",
+    "name": "Outlook uygulamasını şimdi edinin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[5]/div/div/div/div/div/section/div/div[4]/div/div[2]/div/a"
+  },
+  {
+    "id": 276,
+    "parentId": null,
+    "role": "statictext",
+    "name": "DOOM: The Dark Ages",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 277,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Karanlık ve tekinsiz bir orta çağ savaşında ayakta durun ve savaşın.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 278,
+    "parentId": null,
+    "role": "link",
+    "name": "DOOM: The Dark Ages'i satın alın veya Game Pass ile hemen oynayın.",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[6]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[3]/a"
+  },
+  {
+    "id": 279,
+    "parentId": null,
+    "role": "heading",
+    "name": "Microsoft 365 Copilot",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]/div/div[1]/h3"
+  },
+  {
+    "id": 280,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]/div/div[1]/div"
+  },
+  {
+    "id": 281,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft 365 Copilot hakkında daha fazla bilgi edinin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[1]/div/div[2]/div/a"
+  },
+  {
+    "id": 282,
+    "parentId": null,
+    "role": "heading",
+    "name": "Yapay zeka çağına katılın",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]/div/div[1]/h3"
+  },
+  {
+    "id": 283,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]/div/div[1]/div"
+  },
+  {
+    "id": 284,
+    "parentId": null,
+    "role": "link",
+    "name": "Yapay zeka çözümlerini keşfedin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[2]/div/div[2]/div/a"
+  },
+  {
+    "id": 285,
+    "parentId": null,
+    "role": "image",
+    "name": "Visual Studio Simgesi.",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div/picture/img"
+  },
+  {
+    "id": 286,
+    "parentId": null,
+    "role": "heading",
+    "name": "Visual Studio 2022",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div/div[1]/h3"
+  },
+  {
+    "id": 287,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div/div[1]/div"
+  },
+  {
+    "id": 288,
+    "parentId": null,
+    "role": "link",
+    "name": "Visual Studio 2022'yi İndirin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[3]/div/div[2]/div/a"
+  },
+  {
+    "id": 289,
+    "parentId": null,
+    "role": "image",
+    "name": "Evde Windows 365 Bulut hizmetlerine erişen bir kadın",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div/picture/img"
+  },
+  {
+    "id": 290,
+    "parentId": null,
+    "role": "heading",
+    "name": "Windows 365 Bulut Bilgisayarınıza Hoş Geldiniz",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div/div[1]/h3"
+  },
+  {
+    "id": 291,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div/div[1]/div"
+  },
+  {
+    "id": 292,
+    "parentId": null,
+    "role": "link",
+    "name": "Windows 365 Bulut Bilgisayarı Edinin",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[7]/div/div/div/div/div[2]/section/div/div[4]/div/div[2]/div/a"
+  },
+  {
+    "id": 293,
+    "parentId": null,
+    "role": "image",
+    "name": "Facebook",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[1]/a/img"
+  },
+  {
+    "id": 294,
+    "parentId": null,
+    "role": "image",
+    "name": "X",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[2]/a/img"
+  },
+  {
+    "id": 295,
+    "parentId": null,
+    "role": "image",
+    "name": "LinkedIn",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[3]/a/img"
+  },
+  {
+    "id": 296,
+    "parentId": null,
+    "role": "image",
+    "name": "YouTube",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[10]/div/div/div/div/div/section/ul/li[4]/a/img"
+  },
+  {
+    "id": 297,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]"
+  },
+  {
+    "id": 298,
+    "parentId": null,
+    "role": "heading",
+    "name": "Yenilikler",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/div"
+  },
+  {
+    "id": 299,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul"
+  },
+  {
+    "id": 300,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]"
+  },
+  {
+    "id": 301,
+    "parentId": null,
+    "role": "heading",
+    "name": "Microsoft Store",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/div"
+  },
+  {
+    "id": 302,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul"
+  },
+  {
+    "id": 303,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]"
+  },
+  {
+    "id": 304,
+    "parentId": null,
+    "role": "heading",
+    "name": "Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/div"
+  },
+  {
+    "id": 305,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul"
+  },
+  {
+    "id": 306,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]"
+  },
+  {
+    "id": 307,
+    "parentId": null,
+    "role": "heading",
+    "name": "İşletme",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/div"
+  },
+  {
+    "id": 308,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul"
+  },
+  {
+    "id": 309,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]"
+  },
+  {
+    "id": 310,
+    "parentId": null,
+    "role": "heading",
+    "name": "Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/div"
+  },
+  {
+    "id": 311,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul"
+  },
+  {
+    "id": 312,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]"
+  },
+  {
+    "id": 313,
+    "parentId": null,
+    "role": "heading",
+    "name": "Şirket",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/div"
+  },
+  {
+    "id": 314,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul"
+  },
+  {
+    "id": 315,
+    "parentId": null,
+    "role": "statictext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 316,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 317,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 318,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 319,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 320,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[1]"
+  },
+  {
+    "id": 321,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[2]"
+  },
+  {
+    "id": 322,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[3]"
+  },
+  {
+    "id": 323,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[4]"
+  },
+  {
+    "id": 324,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[5]"
+  },
+  {
+    "id": 325,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[6]"
+  },
+  {
+    "id": 326,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[7]"
+  },
+  {
+    "id": 327,
+    "parentId": null,
+    "role": "statictext",
+    "name": "İsteğe bağlı tanımlama bilgilerini, sosyal medya bağlantıları gibi web sitelerimizde deneyiminizi iyileştirmek ve çevrimiçi etkinliğinize dayalı olarak kişiselleştirilmiş reklamlar görüntülemek için kullanırız. İsteğe bağlı tanımlama bilgilerini reddederseniz yalnızca size hizmetleri sağlamak için gerekli tanımlama bilgileri kullanılır. Sayfanın altındaki 'Tanımlama Bilgilerini Yönet' bağlantısına tıklayarak seçiminizi değiştirebilirsiniz. ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 328,
+    "parentId": null,
+    "role": "link",
+    "name": "Gizlilik Bildirimi",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[1]/p/a[1]"
+  },
+  {
+    "id": 329,
+    "parentId": null,
+    "role": "statictext",
+    "name": " ",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 330,
+    "parentId": null,
+    "role": "link",
+    "name": "Üçüncü Taraf Tanımlama Bilgileri",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[1]/p/a[2]"
+  },
+  {
+    "id": 331,
+    "parentId": null,
+    "role": "button",
+    "name": "Kabul et",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[2]/button[1]"
+  },
+  {
+    "id": 332,
+    "parentId": null,
+    "role": "button",
+    "name": "Reddet",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[2]/button[2]"
+  },
+  {
+    "id": 333,
+    "parentId": null,
+    "role": "button",
+    "name": "Tanımlama bilgilerini yönet",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/div[2]/div/div/div/div[2]/button[3]"
+  },
+  {
+    "id": 334,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[1]"
+  },
+  {
+    "id": 335,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[2]"
+  },
+  {
+    "id": 336,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[3]"
+  },
+  {
+    "id": 337,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[4]"
+  },
+  {
+    "id": 338,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[5]"
+  },
+  {
+    "id": 339,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[6]"
+  },
+  {
+    "id": 340,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li"
+  },
+  {
+    "id": 341,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/form/button/::after"
+  },
+  {
+    "id": 342,
+    "parentId": null,
+    "role": "statictext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 343,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 344,
+    "parentId": null,
+    "role": "link",
+    "name": "Hesabınızda oturum açın",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[2]/div/a"
+  },
+  {
+    "id": 345,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[1]/span"
+  },
+  {
+    "id": 346,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[1]/::after"
+  },
+  {
+    "id": 347,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[2]/span"
+  },
+  {
+    "id": 348,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[2]/::after"
+  },
+  {
+    "id": 349,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[3]/span"
+  },
+  {
+    "id": 350,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[1]/button[3]/::after"
+  },
+  {
+    "id": 351,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div"
+  },
+  {
+    "id": 352,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div"
+  },
+  {
+    "id": 353,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 354,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 355,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 356,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Xbox Series X",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 357,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Şimdiye kadarki en hızlı, en güçlü Xbox.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 358,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Xbox Series X Satın Alın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 359,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Edge",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 360,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Siz gezinirken daha fazla gizlilik, daha fazla üretkenlik ve daha fazla değer sunan birinci sınıf performans.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 361,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Hemen indirin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 362,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Xbox Series S",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 363,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Şimdiye kadarki en küçük Xbox'ta yeni nesil performans.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 364,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Xbox Series S Satın Alın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 365,
+    "parentId": null,
+    "role": "statictext",
+    "name": "iOS ve Android için Outlook",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 366,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Bağlanın. Düzenleyin. İşleri halledin.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 367,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Hemen indirin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 368,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 369,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 370,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 371,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 372,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Hemen satın alın veya Xbox Game Pass ile oynayın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 373,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365 Copilot",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 374,
+    "parentId": null,
+    "role": "statictext",
+    "name": "İş için Microsoft 365'teki yapay zeka özellikleriyle zaman kazanın ve sizin için en önemli olan işlere odaklanın.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 375,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Daha fazla bilgi",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 376,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Yapay zeka çağına katılın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 377,
+    "parentId": null,
+    "role": "statictext",
+    "name": "En yeni Microsoft AI çözümleriyle oluşturun, iletişim kurun ve kodlayın.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 378,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Yapay zeka çözümlerini keşfedin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 379,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Visual Studio 2022",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 380,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Web, bulut, masaüstü, mobil uygulama, hizmet ve oyunlar için Windows'ta .NET ve C++ geliştiricilerine sunulan en kapsamlı IDE'yi edinin.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 381,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Visual Studio 2022'yi İndirin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 382,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Windows 365 Bulut Bilgisayarınıza Hoş Geldiniz",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 383,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Windows deneyiminizi Microsoft bulutundan herhangi bir cihaza güvenli şekilde yayınlayın.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 384,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Hemen edinin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 385,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Yenilikler",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 386,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul/li[1]"
+  },
+  {
+    "id": 387,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul/li[2]"
+  },
+  {
+    "id": 388,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul/li[3]"
+  },
+  {
+    "id": 389,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul/li[4]"
+  },
+  {
+    "id": 390,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Store",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 391,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[1]"
+  },
+  {
+    "id": 392,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[2]"
+  },
+  {
+    "id": 393,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[3]"
+  },
+  {
+    "id": 394,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[4]"
+  },
+  {
+    "id": 395,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[5]"
+  },
+  {
+    "id": 396,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Eğitim",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 397,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[1]"
+  },
+  {
+    "id": 398,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[2]"
+  },
+  {
+    "id": 399,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[3]"
+  },
+  {
+    "id": 400,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[4]"
+  },
+  {
+    "id": 401,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[5]"
+  },
+  {
+    "id": 402,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[6]"
+  },
+  {
+    "id": 403,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[7]"
+  },
+  {
+    "id": 404,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[8]"
+  },
+  {
+    "id": 405,
+    "parentId": null,
+    "role": "statictext",
+    "name": "İşletme",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 406,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[1]"
+  },
+  {
+    "id": 407,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[2]"
+  },
+  {
+    "id": 408,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[3]"
+  },
+  {
+    "id": 409,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[4]"
+  },
+  {
+    "id": 410,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[5]"
+  },
+  {
+    "id": 411,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[6]"
+  },
+  {
+    "id": 412,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[7]"
+  },
+  {
+    "id": 413,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[8]"
+  },
+  {
+    "id": 414,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 415,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[1]"
+  },
+  {
+    "id": 416,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[2]"
+  },
+  {
+    "id": 417,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[3]"
+  },
+  {
+    "id": 418,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[4]"
+  },
+  {
+    "id": 419,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[5]"
+  },
+  {
+    "id": 420,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[6]"
+  },
+  {
+    "id": 421,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[7]"
+  },
+  {
+    "id": 422,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[8]"
+  },
+  {
+    "id": 423,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Şirket",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 424,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[1]"
+  },
+  {
+    "id": 425,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[2]"
+  },
+  {
+    "id": 426,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[3]"
+  },
+  {
+    "id": 427,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[4]"
+  },
+  {
+    "id": 428,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[5]"
+  },
+  {
+    "id": 429,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 430,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft'a başvurun",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[1]/a"
+  },
+  {
+    "id": 431,
+    "parentId": null,
+    "role": "link",
+    "name": "Gizlilik",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[2]/a"
+  },
+  {
+    "id": 432,
+    "parentId": null,
+    "role": "link",
+    "name": "Tanımlama bilgilerini yönetin",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[3]/a"
+  },
+  {
+    "id": 433,
+    "parentId": null,
+    "role": "link",
+    "name": "Kullanım Şartları",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[4]/a"
+  },
+  {
+    "id": 434,
+    "parentId": null,
+    "role": "link",
+    "name": "Ticari Markalar",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[5]/a"
+  },
+  {
+    "id": 435,
+    "parentId": null,
+    "role": "link",
+    "name": "Reklamlarımız hakkında",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/div/nav/ul/li[6]/a"
+  },
+  {
+    "id": 436,
+    "parentId": null,
+    "role": "statictext",
+    "name": "© Microsoft 2025",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 437,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 438,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 439,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 440,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 441,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 442,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Gizlilik Bildirimi",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 443,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Üçüncü Taraf Tanımlama Bilgileri",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 444,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Kabul et",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 445,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Reddet",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 446,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Tanımlama bilgilerini yönet",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 447,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft 365",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[1]/a"
+  },
+  {
+    "id": 448,
+    "parentId": null,
+    "role": "link",
+    "name": "Teams",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[2]/a"
+  },
+  {
+    "id": 449,
+    "parentId": null,
+    "role": "link",
+    "name": "Copilot",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[3]/a"
+  },
+  {
+    "id": 450,
+    "parentId": null,
+    "role": "link",
+    "name": "Windows",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[4]/a"
+  },
+  {
+    "id": 451,
+    "parentId": null,
+    "role": "link",
+    "name": "Xbox",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[5]/a"
+  },
+  {
+    "id": 452,
+    "parentId": null,
+    "role": "link",
+    "name": "Destek",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/nav/ul/li[6]/a"
+  },
+  {
+    "id": 453,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div"
+  },
+  {
+    "id": 454,
+    "parentId": null,
+    "role": "statictext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 455,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 456,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 457,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[2]/div/a/span"
+  },
+  {
+    "id": 458,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Hesabınızda oturum açın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 459,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Pause",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 460,
+    "parentId": null,
+    "role": "statictext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 461,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 462,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Geri",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 463,
+    "parentId": null,
+    "role": "statictext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 464,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 465,
+    "parentId": null,
+    "role": "statictext",
+    "name": "İleri",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 466,
+    "parentId": null,
+    "role": "statictext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 467,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 468,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[1]"
+  },
+  {
+    "id": 469,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[1]/picture"
+  },
+  {
+    "id": 470,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]"
+  },
+  {
+    "id": 471,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div"
+  },
+  {
+    "id": 472,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div"
+  },
+  {
+    "id": 473,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div/div"
+  },
+  {
+    "id": 474,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div/div/div"
+  },
+  {
+    "id": 475,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 476,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 477,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 478,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 479,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 480,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 481,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 482,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 483,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 484,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 485,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 486,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 487,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 488,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 489,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 490,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 491,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 492,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 493,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 494,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 495,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 496,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 497,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 498,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 499,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 500,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 501,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 502,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 503,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 504,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 505,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 506,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 507,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 508,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 509,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 510,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 511,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 512,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 513,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 514,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 515,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 516,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 517,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 518,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 519,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 520,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 521,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 522,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 523,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 524,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 525,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 526,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 527,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Copilot Yenilikler ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul/li[1]/a"
+  },
+  {
+    "id": 528,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft 365 Yenilikler ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul/li[2]/a"
+  },
+  {
+    "id": 529,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft ürünlerini keşfedin Yenilikler ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul/li[3]/a"
+  },
+  {
+    "id": 530,
+    "parentId": null,
+    "role": "link",
+    "name": "Windows 11 uygulamaları Yenilikler ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[1]/ul/li[4]/a"
+  },
+  {
+    "id": 531,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 532,
+    "parentId": null,
+    "role": "link",
+    "name": "Hesap profili Microsoft Store",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[1]/a"
+  },
+  {
+    "id": 533,
+    "parentId": null,
+    "role": "link",
+    "name": "İndirme Merkezi Microsoft Store",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[2]/a"
+  },
+  {
+    "id": 534,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Store Desteği Microsoft Store",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[3]/a"
+  },
+  {
+    "id": 535,
+    "parentId": null,
+    "role": "link",
+    "name": "İadeler Microsoft Store",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[4]/a"
+  },
+  {
+    "id": 536,
+    "parentId": null,
+    "role": "link",
+    "name": "Sipariş izleme Microsoft Store",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[2]/ul/li[5]/a"
+  },
+  {
+    "id": 537,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 538,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Eğitim Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[1]/a"
+  },
+  {
+    "id": 539,
+    "parentId": null,
+    "role": "link",
+    "name": "Eğitim cihazları Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[2]/a"
+  },
+  {
+    "id": 540,
+    "parentId": null,
+    "role": "link",
+    "name": "Eğitim için Microsoft Teams Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[3]/a"
+  },
+  {
+    "id": 541,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft 365 Eğitim Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[4]/a"
+  },
+  {
+    "id": 542,
+    "parentId": null,
+    "role": "link",
+    "name": "Office Eğitimi Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[5]/a"
+  },
+  {
+    "id": 543,
+    "parentId": null,
+    "role": "link",
+    "name": "Eğitimci eğitimi ve gelişimi Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[6]/a"
+  },
+  {
+    "id": 544,
+    "parentId": null,
+    "role": "link",
+    "name": "Öğrenciler ve ebeveynler için fırsatlar Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[7]/a"
+  },
+  {
+    "id": 545,
+    "parentId": null,
+    "role": "link",
+    "name": "Öğrenciler için Azure Eğitim",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[1]/div[3]/ul/li[8]/a"
+  },
+  {
+    "id": 546,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 547,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Cloud İşletme ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[1]/a"
+  },
+  {
+    "id": 548,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Güvenlik İşletme ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[2]/a"
+  },
+  {
+    "id": 549,
+    "parentId": null,
+    "role": "link",
+    "name": "Azure İşletme ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[3]/a"
+  },
+  {
+    "id": 550,
+    "parentId": null,
+    "role": "link",
+    "name": "Dynamics 365 İşletme ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[4]/a"
+  },
+  {
+    "id": 551,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft 365 İşletme ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[5]/a"
+  },
+  {
+    "id": 552,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Advertising İşletme ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[6]/a"
+  },
+  {
+    "id": 553,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft 365 Copilot İşletme ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[7]/a"
+  },
+  {
+    "id": 554,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Teams İşletme ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[1]/ul/li[8]/a"
+  },
+  {
+    "id": 555,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 556,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Geliştiricisi Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[1]/a"
+  },
+  {
+    "id": 557,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Learn Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[2]/a"
+  },
+  {
+    "id": 558,
+    "parentId": null,
+    "role": "link",
+    "name": "Yapay zeka market uygulamaları için destek Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[3]/a"
+  },
+  {
+    "id": 559,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Tech Community Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[4]/a"
+  },
+  {
+    "id": 560,
+    "parentId": null,
+    "role": "link",
+    "name": "Azure Market Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[5]/a"
+  },
+  {
+    "id": 561,
+    "parentId": null,
+    "role": "link",
+    "name": "AppSource Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[6]/a"
+  },
+  {
+    "id": 562,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Power Platform Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[7]/a"
+  },
+  {
+    "id": 563,
+    "parentId": null,
+    "role": "link",
+    "name": "Visual Studio Geliştirici ve BT",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[2]/ul/li[8]/a"
+  },
+  {
+    "id": 564,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 565,
+    "parentId": null,
+    "role": "link",
+    "name": "Kariyer Fırsatları Şirket ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[1]/a"
+  },
+  {
+    "id": 566,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft Hakkında Şirket ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[2]/a"
+  },
+  {
+    "id": 567,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft'ta Gizlilik Şirket ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[3]/a"
+  },
+  {
+    "id": 568,
+    "parentId": null,
+    "role": "link",
+    "name": "Yatırımcılar Şirket ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[4]/a"
+  },
+  {
+    "id": 569,
+    "parentId": null,
+    "role": "link",
+    "name": "Sürdürülebilirlik Şirket ",
+    "childIds": [],
+    "xpath": "/html/body/div[5]/div/div/div/footer/nav/div[2]/div[3]/ul/li[5]/a"
+  },
+  {
+    "id": 570,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft'a başvurun",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 571,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Gizlilik",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 572,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Tanımlama bilgilerini yönetin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 573,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Kullanım Şartları",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 574,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Ticari Markalar",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 575,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Reklamlarımız hakkında",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 576,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 577,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 578,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 579,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 580,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 581,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 582,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 583,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Teams",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 584,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Copilot",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 585,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Windows",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 586,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Xbox",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 587,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Destek",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 588,
+    "parentId": null,
+    "role": "button",
+    "name": "Tüm Microsoft ",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div/button"
+  },
+  {
+    "id": 589,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div/ul/li[2]/span"
+  },
+  {
+    "id": 590,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 591,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div/ul/li[3]/span"
+  },
+  {
+    "id": 592,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 593,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div/ul/li[4]/span"
+  },
+  {
+    "id": 594,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 595,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div/ul/li[5]/span"
+  },
+  {
+    "id": 596,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 597,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div/ul/li[6]/span"
+  },
+  {
+    "id": 598,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 599,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div/ul/li[7]/span"
+  },
+  {
+    "id": 600,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 601,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 602,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 603,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 604,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 605,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 606,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 607,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 608,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 609,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 610,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 611,
+    "parentId": null,
+    "role": "image",
+    "name": "Teams, Word, Outlook ve daha birçok uygulamadan oluşan Microsoft 365 paketi.",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[1]/picture/img"
+  },
+  {
+    "id": 612,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div/div/div/div"
+  },
+  {
+    "id": 613,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Copilot",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 614,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 615,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft ürünlerini keşfedin",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 616,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Windows 11 uygulamaları",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 617,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Hesap profili",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 618,
+    "parentId": null,
+    "role": "statictext",
+    "name": "İndirme Merkezi",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 619,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Store Desteği",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 620,
+    "parentId": null,
+    "role": "statictext",
+    "name": "İadeler",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 621,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Sipariş izleme",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 622,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Eğitim",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 623,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Eğitim cihazları",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 624,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Eğitim için Microsoft Teams",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 625,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365 Eğitim",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 626,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Office Eğitimi",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 627,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Eğitimci eğitimi ve gelişimi",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 628,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Öğrenciler ve ebeveynler için fırsatlar",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 629,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Öğrenciler için Azure",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 630,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Cloud",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 631,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Güvenlik",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 632,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Azure",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 633,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Dynamics 365",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 634,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 635,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Advertising",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 636,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365 Copilot",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 637,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Teams",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 638,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Geliştiricisi",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 639,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Learn",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 640,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Yapay zeka market uygulamaları için destek",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 641,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Tech Community",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 642,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Azure Market",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 643,
+    "parentId": null,
+    "role": "statictext",
+    "name": "AppSource",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 644,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Power Platform",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 645,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Visual Studio",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 646,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Kariyer Fırsatları",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 647,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft Hakkında",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 648,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft'ta Gizlilik",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 649,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Yatırımcılar",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 650,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Sürdürülebilirlik",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 651,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 652,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 653,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 654,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 655,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 656,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 657,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 658,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 659,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 660,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 661,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 662,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 663,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Tüm Microsoft",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 664,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[3]/div[1]/div/div/header/div/div/div[2]/div[1]/nav/ul/li/div/button/::after"
+  },
+  {
+    "id": 665,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div/div/div/div/div[1]"
+  },
+  {
+    "id": 666,
+    "parentId": null,
+    "role": "heading",
+    "name": "Sıra dışı olanı başarın",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div/div/div/div/div[1]/h1"
+  },
+  {
+    "id": 667,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div/div/div/div/div[2]"
+  },
+  {
+    "id": 668,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div/div/div/div/div[3]"
+  },
+  {
+    "id": 669,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 670,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 671,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 672,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 673,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 674,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 675,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 676,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 677,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 678,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 679,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 680,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 681,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 682,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 683,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 684,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 685,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 686,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 687,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 688,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 689,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 690,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 691,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 692,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 693,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 694,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 695,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 696,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 697,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 698,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 699,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 700,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 701,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 702,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 703,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 704,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 705,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 706,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 707,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 708,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 709,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 710,
+    "parentId": null,
+    "role": "statictext",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 711,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 712,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Sıra dışı olanı başarın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 713,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365, tek bir planda bulut depolama alanı, güvenlik ve en sevdiğiniz uygulamalarda Microsoft Copilot'ı sunuyor.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 714,
+    "parentId": null,
+    "role": "link",
+    "name": "Microsoft 365 Satın Alın",
+    "childIds": [],
+    "xpath": "/html/body/div[4]/div/div/main/div/div[3]/div/div/section/div[2]/div/div[2]/section[1]/div/div/div[2]/div/div/div/div/div/div[3]/a"
+  },
+  {
+    "id": 715,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 716,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 717,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 718,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 719,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 720,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Microsoft 365 Satın Alın",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 721,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  }
+]

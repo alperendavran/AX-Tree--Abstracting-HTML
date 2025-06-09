@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "parentId": null,
+    "role": "rootwebarea",
+    "name": "404  |  Page Not Found  |  web.dev",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 2,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 3,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body"
+  },
+  {
+    "id": 4,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/devsite-progress"
+  },
+  {
+    "id": 5,
+    "parentId": null,
+    "role": "link",
+    "name": "Skip to main content",
+    "childIds": [],
+    "xpath": "/html/body/a"
+  },
+  {
+    "id": 6,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section"
+  },
+  {
+    "id": 7,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/devsite-snackbar"
+  },
+  {
+    "id": 8,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/devsite-a11y-announce"
+  },
+  {
+    "id": 9,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Skip to main content",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 10,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-cookie-notification-bar"
+  },
+  {
+    "id": 11,
+    "parentId": null,
+    "role": "banner",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header"
+  },
+  {
+    "id": 12,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[1]"
+  },
+  {
+    "id": 13,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[2]"
+  },
+  {
+    "id": 14,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section"
+  },
+  {
+    "id": 15,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 16,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div"
+  },
+  {
+    "id": 17,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]"
+  },
+  {
+    "id": 18,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[2]"
+  },
+  {
+    "id": 19,
+    "parentId": null,
+    "role": "main",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main"
+  },
+  {
+    "id": 20,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-promos"
+  },
+  {
+    "id": 21,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes"
+  },
+  {
+    "id": 22,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Footer links",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav"
+  },
+  {
+    "id": 23,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility"
+  },
+  {
+    "id": 24,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility/div"
+  },
+  {
+    "id": 25,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Utility links",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility/div/nav"
+  },
+  {
+    "id": 26,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-panel"
+  },
+  {
+    "id": 27,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div"
+  },
+  {
+    "id": 28,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div"
+  },
+  {
+    "id": 29,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[2]/div"
+  },
+  {
+    "id": 30,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/div"
+  },
+  {
+    "id": 31,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content"
+  },
+  {
+    "id": 32,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul"
+  },
+  {
+    "id": 33,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility/div/nav/ul"
+  },
+  {
+    "id": 34,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[1]"
+  },
+  {
+    "id": 35,
+    "parentId": null,
+    "role": "link",
+    "name": "web.dev",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[1]/a"
+  },
+  {
+    "id": 36,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[1]/span"
+  },
+  {
+    "id": 37,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[1]/span/ul"
+  },
+  {
+    "id": 38,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]"
+  },
+  {
+    "id": 39,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/devsite-appearance-selector"
+  },
+  {
+    "id": 40,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/devsite-user"
+  },
+  {
+    "id": 41,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/div/div"
+  },
+  {
+    "id": 42,
+    "parentId": null,
+    "role": "article",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article"
+  },
+  {
+    "id": 43,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[1]"
+  },
+  {
+    "id": 44,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[2]"
+  },
+  {
+    "id": 45,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]"
+  },
+  {
+    "id": 46,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]"
+  },
+  {
+    "id": 47,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility/div/nav/ul/li[1]"
+  },
+  {
+    "id": 48,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility/div/nav/ul/li[2]"
+  },
+  {
+    "id": 49,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[1]/a/picture"
+  },
+  {
+    "id": 50,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[1]/a/picture/source"
+  },
+  {
+    "id": 51,
+    "parentId": null,
+    "role": "image",
+    "name": "web.dev",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[1]/a/picture/img"
+  },
+  {
+    "id": 52,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[1]/span/ul/li"
+  },
+  {
+    "id": 53,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]"
+  },
+  {
+    "id": 54,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/devsite-search"
+  },
+  {
+    "id": 55,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[2]"
+  },
+  {
+    "id": 56,
+    "parentId": null,
+    "role": "button",
+    "name": "Appearance: Light theme",
+    "childIds": [],
+    "xpath": "/button"
+  },
+  {
+    "id": 57,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/ul"
+  },
+  {
+    "id": 58,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/ul/li[1]/label"
+  },
+  {
+    "id": 59,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/ul/li[1]/label/input"
+  },
+  {
+    "id": 60,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 61,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/ul/li[2]/label"
+  },
+  {
+    "id": 62,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/ul/li[2]/label/input"
+  },
+  {
+    "id": 63,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 64,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/ul/li[3]/label"
+  },
+  {
+    "id": 65,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/ul/li[3]/label/input"
+  },
+  {
+    "id": 66,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 67,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/devsite-user/div"
+  },
+  {
+    "id": 68,
+    "parentId": null,
+    "role": "link",
+    "name": "Sign in",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/devsite-user/div/a"
+  },
+  {
+    "id": 69,
+    "parentId": null,
+    "role": "navigation",
+    "name": "On this page",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/div/div/devsite-toc"
+  },
+  {
+    "id": 70,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/div/div/devsite-recommendations-sidebar"
+  },
+  {
+    "id": 71,
+    "parentId": null,
+    "role": "article",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article"
+  },
+  {
+    "id": 72,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[1]/ul"
+  },
+  {
+    "id": 73,
+    "parentId": null,
+    "role": "heading",
+    "name": "Contribute",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[2]/h3"
+  },
+  {
+    "id": 74,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[2]/ul"
+  },
+  {
+    "id": 75,
+    "parentId": null,
+    "role": "heading",
+    "name": "Related Content",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/h3"
+  },
+  {
+    "id": 76,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul"
+  },
+  {
+    "id": 77,
+    "parentId": null,
+    "role": "heading",
+    "name": "Follow",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/h3"
+  },
+  {
+    "id": 78,
+    "parentId": null,
+    "role": "list",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul"
+  },
+  {
+    "id": 79,
+    "parentId": null,
+    "role": "link",
+    "name": "Terms",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility/div/nav/ul/li[1]/a"
+  },
+  {
+    "id": 80,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility/div/nav/ul/li[2]/::before"
+  },
+  {
+    "id": 81,
+    "parentId": null,
+    "role": "link",
+    "name": "Privacy",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-utility/div/nav/ul/li[2]/a"
+  },
+  {
+    "id": 82,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs"
+  },
+  {
+    "id": 83,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/devsite-search/form"
+  },
+  {
+    "id": 84,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/button/::before"
+  },
+  {
+    "id": 85,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Sign in",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 86,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]"
+  },
+  {
+    "id": 87,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[2]"
+  },
+  {
+    "id": 88,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[1]/ul/li"
+  },
+  {
+    "id": 89,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Contribute",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 90,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[2]/ul/li[1]"
+  },
+  {
+    "id": 91,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[2]/ul/li[2]"
+  },
+  {
+    "id": 92,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Related Content",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 93,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul/li[1]"
+  },
+  {
+    "id": 94,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul/li[2]"
+  },
+  {
+    "id": 95,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul/li[3]"
+  },
+  {
+    "id": 96,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul/li[4]"
+  },
+  {
+    "id": 97,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Follow",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 98,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul/li[1]"
+  },
+  {
+    "id": 99,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul/li[2]"
+  },
+  {
+    "id": 100,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul/li[3]"
+  },
+  {
+    "id": 101,
+    "parentId": null,
+    "role": "listitem",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul/li[4]"
+  },
+  {
+    "id": 102,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Terms",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 103,
+    "parentId": null,
+    "role": "statictext",
+    "name": "|",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 104,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 105,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Privacy",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 106,
+    "parentId": null,
+    "role": "navigation",
+    "name": "Upper tabs",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav"
+  },
+  {
+    "id": 107,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/devsite-search/form/div[1]"
+  },
+  {
+    "id": 108,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/devsite-search/form/div[1]/div"
+  },
+  {
+    "id": 109,
+    "parentId": null,
+    "role": "statictext",
+    "name": "light_mode",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 110,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 111,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 112,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div"
+  },
+  {
+    "id": 113,
+    "parentId": null,
+    "role": "heading",
+    "name": "404",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/h3"
+  },
+  {
+    "id": 114,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/div"
+  },
+  {
+    "id": 115,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/devsite-search"
+  },
+  {
+    "id": 116,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[1]/ul/li/div"
+  },
+  {
+    "id": 117,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 118,
+    "parentId": null,
+    "role": "link",
+    "name": "File a bug",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[2]/ul/li[1]/a"
+  },
+  {
+    "id": 119,
+    "parentId": null,
+    "role": "link",
+    "name": "See open issues",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[2]/ul/li[2]/a"
+  },
+  {
+    "id": 120,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 121,
+    "parentId": null,
+    "role": "link",
+    "name": "Chrome for Developers",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul/li[1]/a"
+  },
+  {
+    "id": 122,
+    "parentId": null,
+    "role": "link",
+    "name": "Chromium updates",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul/li[2]/a"
+  },
+  {
+    "id": 123,
+    "parentId": null,
+    "role": "link",
+    "name": "Case studies",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul/li[3]/a"
+  },
+  {
+    "id": 124,
+    "parentId": null,
+    "role": "link",
+    "name": "Podcasts & shows",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[3]/ul/li[4]/a"
+  },
+  {
+    "id": 125,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 126,
+    "parentId": null,
+    "role": "link",
+    "name": "@ChromiumDev on X",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul/li[1]/a"
+  },
+  {
+    "id": 127,
+    "parentId": null,
+    "role": "link",
+    "name": "YouTube",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul/li[2]/a"
+  },
+  {
+    "id": 128,
+    "parentId": null,
+    "role": "link",
+    "name": "Chrome for Developers on LinkedIn",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul/li[3]/a"
+  },
+  {
+    "id": 129,
+    "parentId": null,
+    "role": "link",
+    "name": "RSS",
+    "childIds": [],
+    "xpath": "/html/body/section/section/devsite-footer-linkboxes/nav/ul/li[4]/ul/li[4]/a"
+  },
+  {
+    "id": 130,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 131,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 132,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 133,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[1]"
+  },
+  {
+    "id": 134,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[2]"
+  },
+  {
+    "id": 135,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[3]"
+  },
+  {
+    "id": 136,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[4]"
+  },
+  {
+    "id": 137,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[5]/button"
+  },
+  {
+    "id": 138,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 139,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[5]/div"
+  },
+  {
+    "id": 140,
+    "parentId": null,
+    "role": "combobox",
+    "name": "Search",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/devsite-search/form/div[1]/div/input"
+  },
+  {
+    "id": 141,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/devsite-search/form/div[1]/div/div[1]"
+  },
+  {
+    "id": 142,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/devsite-search/form/div[1]/div/div[1]/::before"
+  },
+  {
+    "id": 143,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 144,
+    "parentId": null,
+    "role": "statictext",
+    "name": "404",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 145,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Sorry, we couldn't find that page.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 146,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/devsite-search/form"
+  },
+  {
+    "id": 147,
+    "parentId": null,
+    "role": "statictext",
+    "name": "We want to help you build beautiful, accessible, fast, and secure websites that work cross-browser, and for all of your users. This site is our home for content to help you on that journey, written by members of the Chrome team, and external experts.",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 148,
+    "parentId": null,
+    "role": "statictext",
+    "name": "File a bug",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 149,
+    "parentId": null,
+    "role": "statictext",
+    "name": "See open issues",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 150,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Chrome for Developers",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 151,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Chromium updates",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 152,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Case studies",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 153,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Podcasts & shows",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 154,
+    "parentId": null,
+    "role": "statictext",
+    "name": "@ChromiumDev on X",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 155,
+    "parentId": null,
+    "role": "statictext",
+    "name": "YouTube",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 156,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Chrome for Developers on LinkedIn",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 157,
+    "parentId": null,
+    "role": "statictext",
+    "name": "RSS",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 158,
+    "parentId": null,
+    "role": "button",
+    "name": "arrow_drop_down Resources",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[1]/button"
+  },
+  {
+    "id": 159,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[1]/div"
+  },
+  {
+    "id": 160,
+    "parentId": null,
+    "role": "link",
+    "name": "Baseline",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[2]/a"
+  },
+  {
+    "id": 161,
+    "parentId": null,
+    "role": "link",
+    "name": "Blog",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[3]/a"
+  },
+  {
+    "id": 162,
+    "parentId": null,
+    "role": "link",
+    "name": "Case Studies",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[4]/a"
+  },
+  {
+    "id": 163,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[1]"
+  },
+  {
+    "id": 164,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[2]"
+  },
+  {
+    "id": 165,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 166,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 167,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/devsite-search/form/div[1]"
+  },
+  {
+    "id": 168,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/devsite-search/form/div[1]/div"
+  },
+  {
+    "id": 169,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 170,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 171,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 172,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 173,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 174,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 175,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 176,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 177,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 178,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 179,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 180,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 181,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 182,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 183,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 184,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/devsite-header/div/div[1]/div/div/div[2]/div[1]/devsite-tabs/nav/tab[1]/button/::before"
+  },
+  {
+    "id": 185,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Resources",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 186,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Baseline",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 187,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Blog",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 188,
+    "parentId": null,
+    "role": "statictext",
+    "name": "Case Studies",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 189,
+    "parentId": null,
+    "role": "combobox",
+    "name": "Search",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/devsite-search/form/div[1]/div/input"
+  },
+  {
+    "id": 190,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/devsite-search/form/div[1]/div/div[1]"
+  },
+  {
+    "id": 191,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html/body/section/section/main/devsite-content/article/article/div[1]/div/devsite-search/form/div[1]/div/div[1]/::before"
+  },
+  {
+    "id": 192,
+    "parentId": null,
+    "role": "statictext",
+    "name": "arrow_drop_down",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 193,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 194,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 195,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 196,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 197,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  },
+  {
+    "id": 198,
+    "parentId": null,
+    "role": "none",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[1]"
+  },
+  {
+    "id": 199,
+    "parentId": null,
+    "role": "generic",
+    "name": "",
+    "childIds": [],
+    "xpath": "/div[2]"
+  },
+  {
+    "id": 200,
+    "parentId": null,
+    "role": "inlinetextbox",
+    "name": "",
+    "childIds": [],
+    "xpath": "/html"
+  }
+]
