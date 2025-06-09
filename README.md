@@ -9,9 +9,11 @@ This repo delivers a two-step tool-chain that turns any web page into a _diff-fr
 
 | Step | Script | What it does |
 |------|--------|--------------|
-| ① | **`src/aom.js`** | Headless Chromium navigates to a URL, scrolls the page, and emits a richly annotated JSON Accessibility Object Model (AOM). |
-| ② | **`src/ax.js`** | Reads that JSON and prints a DevTools-like ASCII tree, collapsing wrappers and merging text nodes for readability. |
-| ③ | **`src/test_env.js`** | Optional end-to-end harness that runs both scripts on a list of URLs, compares the result against Chrome’s ground truth, and writes `results/AX_metrics.csv`. |
+| ① | `src/dump-chrome.js` | Launches **real Chrome**, grabs the ground-truth Accessibility (AX) tree and writes it to `*_chrome.json` (now with *true* DOM XPaths via `Runtime.callFunctionOn`). |
+| ② | `src/aom.js` | Headless Chromium (Playwright) crawls the same URL, scrolls the page and emits a richly annotated JSON Accessibility Object Model (**AOM**) → `*_ours.json`. |
+| ③ | `src/ax.js` | Reads that JSON and prints a DevTools-style **ASCII tree**, collapsing wrappers and merging text nodes for readability. |
+| ④ | `src/test_env.js` | End-to-end harness: runs ① + ② on a list of URLs, computes coverage/precision/recall & other metrics, writes `results/AX_metrics.csv`. |
+
 
 The pipeline is cross-browser (Chromium/WebKit/Firefox via Playwright) and CI-ready.
 
@@ -26,6 +28,7 @@ $ git clone https://github.com/alperendavran/AX-Tree--Abstracting-HTML.git
 $ npm ci           # installs playwright, chalk, etc.
 
 # 2.  Single-page crawl + pretty print
+node src/dump-chrome.js https://www.trendyol.com/unilever/yumos-sprey-sakura-450-ml-p-800051239 ty_chrome.json    # step ①
 $ node src/aom.js https://www.trendyol.com/unilever/yumos-sprey-sakura-450-ml-p-800051239 ty_page.json
 $ node src/ax.js  ty_page.json --out ty.txt
 $ cat ty.txt   # DevTools-style ASCII tree
